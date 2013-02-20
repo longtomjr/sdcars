@@ -4,10 +4,10 @@ OBJECT world
 kids 37
 OBJECT poly
 name "WI2000000_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 32
 2.166220 0.292065 0.612271 0.698556 -0.381314 0.605491
 2.156110 0.200825 0.556304 0.734629 -0.471728 0.487640
@@ -114,10 +114,10 @@ refs 4
 kids 0
 OBJECT poly
 name "WIHEADLI_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 36
 2.018900 0.466681 -0.621432 0.455391 0.885936 -0.087960
 1.767120 0.576937 -0.552584 0.371347 0.927959 0.031511
@@ -224,10 +224,10 @@ refs 8
 kids 0
 OBJECT poly
 name "WI_s_5"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 76
 0.027976 0.848378 -0.733594 -0.010024 0.640893 -0.767565
 0.051668 0.772549 -0.791521 -0.008363 0.540183 -0.841506
@@ -447,10 +447,10 @@ refs 13
 kids 0
 OBJECT poly
 name "WIINTERIOR_s_0"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 4
 -0.644489 0.935105 0.568048 0.998910 -0.045669 -0.009669
 -0.656831 0.682896 0.484246 0.998910 -0.045670 -0.009668
@@ -467,10 +467,10 @@ refs 4
 kids 0
 OBJECT poly
 name "HEADLIGHTS_s_5"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 74
 1.779373 0.536676 0.824763 0.618475 0.348234 -0.704430
 1.779373 0.554905 0.827042 0.580816 -0.071631 -0.810877
@@ -665,10 +665,10 @@ refs 14
 kids 0
 OBJECT poly
 name "BODYREAR_s_0"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 296
 -2.016849 0.075226 0.595988 -0.779490 -0.478226 -0.404592
 -2.004479 0.065501 0.592305 -0.411149 -0.851322 -0.325894
@@ -1643,10 +1643,10 @@ refs 9
 kids 0
 OBJECT poly
 name "BONNETEDGE_s_2"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 45
 0.644384 0.694637 -0.767979 -0.520888 0.234917 0.820664
 0.573789 0.696091 -0.803555 -0.380183 0.205094 0.901886
@@ -1767,10 +1767,10 @@ refs 5
 kids 0
 OBJECT poly
 name "BODY_s_24"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 902
 0.008926 0.969530 0.595182 0.038541 0.772133 0.634291
 -0.023914 0.968590 0.597995 0.033684 0.755985 0.653722
@@ -4667,10 +4667,10 @@ refs 5
 kids 0
 OBJECT poly
 name "BONNETVENTS_s_6"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 66
 1.267990 0.657147 0.098399 -0.090774 0.563857 -0.820868
 1.092510 0.649877 0.112810 0.716770 0.272892 -0.641694
@@ -4871,10 +4871,10 @@ refs 6
 kids 0
 OBJECT poly
 name "REARBAR_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 115
 -2.268050 0.437648 0.144711 0.717791 0.696242 0.004716
 -2.251240 0.395974 0.117777 0.932064 0.361612 0.022209
@@ -5290,10 +5290,10 @@ refs 23
 kids 0
 OBJECT poly
 name "REARDETAIL2_s_2"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 60
 -2.263680 0.634751 0.460279 -0.379414 -0.515076 -0.768597
 -2.272310 0.660184 0.434919 -0.341740 -0.893690 -0.290744
@@ -5450,10 +5450,10 @@ refs 25
 kids 0
 OBJECT poly
 name "RIGHTUPPERV_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 32
 -1.212200 0.741304 0.642622 0.507658 0.795217 0.331530
 -1.210470 0.767756 0.628404 0.304366 -0.204263 0.930397
@@ -5560,10 +5560,10 @@ refs 14
 kids 0
 OBJECT poly
 name "LEFTUPPERVE_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 31
 -1.189810 0.821085 -0.664154 0.735095 -0.650968 0.189409
 -1.210470 0.767756 -0.631764 0.417421 -0.331521 -0.846081
@@ -5668,10 +5668,10 @@ refs 41
 kids 0
 OBJECT poly
 name "BODYX02_s_0"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 12
 -0.903101 0.452428 0.922211 0.839783 0.338122 -0.424781
 -0.880036 0.408252 0.914263 0.835600 0.483273 -0.261190
@@ -5706,10 +5706,10 @@ refs 14
 kids 0
 OBJECT poly
 name "BODY01_s_0"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 15
 -0.920650 0.536225 -0.931923 0.722674 0.033055 0.690398
 -0.928972 0.520326 -0.918011 0.836295 0.179227 0.518158
@@ -5751,10 +5751,10 @@ refs 18
 kids 0
 OBJECT poly
 name "VENTLEFT_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 46
 -0.639128 0.585094 -0.916876 0.914407 -0.051172 0.401548
 -0.638881 0.612833 -0.902602 0.673214 -0.620461 -0.402258
@@ -5904,10 +5904,10 @@ refs 9
 kids 0
 OBJECT poly
 name "VENTRIGHT_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 47
 -0.639216 0.572190 0.837115 0.593535 -0.397254 0.699933
 -0.638881 0.612833 0.899244 0.673214 -0.620461 0.402258
@@ -6069,10 +6069,10 @@ refs 8
 kids 0
 OBJECT poly
 name "INTERIOR_s_33"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 349
 0.482144 0.697995 -0.835876 -0.131440 0.539686 0.831542
 0.416139 0.697708 -0.846123 -0.006863 0.877531 0.479471
@@ -7167,10 +7167,10 @@ refs 38
 kids 0
 OBJECT poly
 name "FOGLIGHTS2_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 19
 2.074988 0.134638 -0.602054 0.203590 0.970389 0.129984
 2.060411 0.146399 -0.628876 0.395326 0.900710 0.180108
@@ -7225,10 +7225,10 @@ refs 11
 kids 0
 OBJECT poly
 name "REARDETAIL_s_2"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 34
 -2.245410 0.646240 0.395929 -0.940454 -0.338751 0.028170
 -2.244940 0.647545 0.435571 -0.938174 -0.345433 0.022495
@@ -7318,10 +7318,10 @@ refs 11
 kids 0
 OBJECT poly
 name "FRONTVENTS_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 30
 2.093310 0.158974 -0.401537 0.918304 -0.108219 -0.380798
 2.104680 0.181909 -0.451669 0.737004 -0.352943 0.576417
@@ -7424,10 +7424,10 @@ refs 28
 kids 0
 OBJECT poly
 name "FRONTGRILLE_s_0"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 11
 2.147420 0.264081 0.351992 0.882209 -0.460471 0.098354
 2.086140 0.147348 0.380360 0.889881 -0.430403 0.151216
@@ -7464,10 +7464,10 @@ refs 17
 kids 0
 OBJECT poly
 name "WIPERS_s_2"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 40
 0.789021 0.742906 -0.446150 0.838219 0.415501 -0.353196
 0.735638 0.723444 -0.578640 0.504326 0.770885 -0.389089
@@ -7597,10 +7597,10 @@ refs 6
 kids 0
 OBJECT poly
 name "WING_s_5"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 50
 -2.138680 0.911567 -0.937884 0.397398 0.726995 0.559958
 -1.936740 0.932964 -0.938270 0.002694 0.003539 0.999990
@@ -7759,10 +7759,10 @@ refs 13
 kids 0
 OBJECT poly
 name "WHEEL_s_2"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 150
 0.238461 0.554631 -0.314216 -0.530272 0.089156 0.843127
 0.252758 0.598409 -0.329330 -0.372012 0.572136 0.730936
@@ -8290,10 +8290,10 @@ refs 19
 kids 0
 OBJECT poly
 name "TAILPIPES_s_5"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 98
 -2.144680 0.297887 0.116120 -0.477113 0.391968 -0.786590
 -2.267570 0.304846 0.143582 -0.188183 0.328866 -0.925438
@@ -8550,10 +8550,10 @@ refs 33
 kids 0
 OBJECT poly
 name "RVMIRROR_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 22
 0.365605 0.931431 0.013253 0.001442 0.963000 0.269499
 0.391217 0.919531 0.013005 0.329482 -0.053587 0.942640
@@ -8643,10 +8643,10 @@ refs 7
 kids 0
 OBJECT poly
 name "RIGHTTAIL_s_3"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 80
 -2.206240 0.554182 -0.602136 -0.965888 -0.249956 -0.067691
 -2.213350 0.617567 -0.651470 -0.728965 -0.608736 0.313131
@@ -8856,10 +8856,10 @@ refs 26
 kids 0
 OBJECT poly
 name "MIRROR_s_3"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 158
 0.364850 0.747043 0.875759 -0.891899 0.046045 0.449885
 0.360906 0.721985 0.883925 -0.959398 0.266796 -0.091519
@@ -9436,10 +9436,10 @@ refs 7
 kids 0
 OBJECT poly
 name "DASH_s_5"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 75
 0.526603 0.616223 -0.672976 0.172256 0.669813 -0.722274
 0.381436 0.623394 -0.678426 -0.854849 0.234064 -0.463085
@@ -9686,10 +9686,10 @@ refs 18
 kids 0
 OBJECT poly
 name "GEARSTICK_s_2"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 36
 0.182762 0.525122 -0.057955 0.861210 -0.007516 0.508194
 0.168761 0.525244 -0.050040 -0.861183 0.007508 0.508240
@@ -9821,10 +9821,10 @@ refs 30
 kids 0
 OBJECT poly
 name "FOGLIGHTS0_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 13
 2.050140 0.304677 -0.517599 0.998297 -0.001517 0.058316
 2.048610 0.127908 -0.510500 0.995129 -0.004659 0.098469
@@ -9866,10 +9866,10 @@ refs 8
 kids 0
 OBJECT poly
 name "CHAIRS_s_3"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 76
 0.112286 0.185494 -0.269044 0.526667 0.842166 -0.115665
 0.109802 0.185515 -0.525723 0.508179 0.852792 0.120420
@@ -10118,10 +10118,10 @@ refs 29
 kids 0
 OBJECT poly
 name "HEAD_s_5"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 38
 -0.368130 0.820311 -0.497350 -0.399097 -0.110945 -0.910172
 -0.404735 0.757248 -0.402580 -0.962726 -0.270476 0.000854
@@ -10239,10 +10239,10 @@ refs 17
 kids 0
 OBJECT poly
 name "DRIVERHAND_s_1"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 29
 0.229998 0.518132 -0.253990 -0.447416 0.564593 0.693581
 0.283121 0.525201 -0.268820 0.331150 0.918672 -0.215364
@@ -10333,10 +10333,10 @@ refs 20
 kids 0
 OBJECT poly
 name "DRIVERHAN0_s_3"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 29
 0.292804 0.541388 -0.610790 0.462442 -0.726357 -0.508481
 0.150434 0.545251 -0.654540 0.030987 -0.981771 -0.187525
@@ -10432,10 +10432,10 @@ refs 10
 kids 0
 OBJECT poly
 name "DRIVER_s_11"
-texture "fordgt.rgb" base
-texture "fordgt.rgb" tiled
-texture "fordgt.rgb" skids
-texture "fordgt.rgb" shad
+texture "gulfgt.rgb" base
+texture "gulfgt.rgb" tiled
+texture "gulfgt.rgb" skids
+texture "gulfgt.rgb" shad
 numvert 86
 -0.191132 0.144485 -0.265420 -0.142117 0.086828 0.986034
 0.189650 0.201404 -0.215550 -0.010170 0.355055 0.934790

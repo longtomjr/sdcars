@@ -51,7 +51,7 @@ Copyleft: this work of art is free, you can redistribute
     <section name="Ranges">
       <section name="1">
 	<attnum name="threshold" val="0"/>
-	<attstr name="car" val="frame.ac"/>
+	<attstr name="car" val="tr-RR.ac"/>
       </section>
     </section>
 

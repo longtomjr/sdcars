@@ -5,7 +5,7 @@
     created     : Sun Nov 10 18:35:47 CET 2002
     copyright   : (C) 2002 by Christophe Guionneau                         
     email       : Eric.Espie@torcs.org   
-    version     : $Id: fordgt.xml,v 1.8 2005/02/15 15:42:55 olethros Exp $                                  
+    version     : $Id: gulfgt.xml,v 1.8 2005/02/15 15:42:55 olethros Exp $                                  
 -->
 
 <!--    This program is free software; you can redistribute it and/or modify  -->
@@ -40,7 +40,7 @@
   </section>
 
   <section name="Graphic Objects">
-    <attstr name="env" val="fordgt.acc"/>
+    <attstr name="env" val="gulfgt.acc"/>
     <attstr name="wheel texture" val="wheel3d.png"/>
     <attstr name="shadow texture" val="shadow.rgb"/>
     <attstr name="tachometer texture" val="rpm7000.rgb"/>
@@ -53,17 +53,17 @@
     <section name="Ranges">
       <section name="1">
         <attnum name="threshold" val="30"/>
-        <attstr name="car" val="fordgt.acc"/>
+        <attstr name="car" val="gulfgt.acc"/>
 	<attstr name="wheels" val="yes"/>
       </section>
       <section name="2">
         <attnum name="threshold" val="15"/>
-        <attstr name="car" val="fordgt-lod1.acc"/>
+        <attstr name="car" val="gulfgt-lod1.acc"/>
 	<attstr name="wheels" val="yes"/>
       </section>
       <section name="3">
         <attnum name="threshold" val="0"/>
-        <attstr name="car" val="fordgt-lod2.acc"/>
+        <attstr name="car" val="gulfgt-lod2.acc"/>
 	<attstr name="wheels" val="yes"/>
       </section>
     </section>
@@ -130,7 +130,7 @@
   </section>
 
   <section name="Car">
-    <attstr name="category" val="TRB1"/>
+    <attstr name="category" val="Preview"/>
     <attnum name="body length" unit="m" val="4.613"/>
     <attnum name="body width" unit="m" val="1.95"/>
     <attnum name="body height" unit="m" val="1.0"/>

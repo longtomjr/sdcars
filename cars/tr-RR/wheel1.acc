@@ -7,7 +7,7 @@ name "Mesh"
 loc 8.53244e-09 0 -0.269988
 data 4
 Mesh
-texture "/usr/share/games/speed-dreams-2/cars/tr-RR/textures/wheel.png"
+texture "./textures/wheel.png"
 crease 30.000000
 numvert 4896
 0.108899 0.168271 0.269987
