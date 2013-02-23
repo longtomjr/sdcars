@@ -1,4 +1,0 @@
-________________________________________________________________
-
-Compiled by longtomjr
-longtomjr@gmail.com

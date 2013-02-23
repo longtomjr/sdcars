@@ -1,6 +1,6 @@
 ## Autor(S) ##
 
-* (C) 2008 Jean-Philippe MEURET (jpmeuret@free.fr)
+* (C) 2006 Bernhard Wymann (berniw@bluewin.ch)
 
 ## Licence ##
 
@@ -8,12 +8,12 @@ GPL v2+
 
 ## Car name ##
 
-Supervulture S12
+Sorgfart Adler LS
 
 ## Car Category ##
 
-LS-GT1
+LS-GT2
 
 ## Car Folder ##
 
-ls1-supervulture
+ls3-sorgfart-adler

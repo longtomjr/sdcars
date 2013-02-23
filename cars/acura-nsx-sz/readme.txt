@@ -1,9 +1,20 @@
-3D Model : Copyright 2000  ViPeR (viper@mttestdriver.com)
+## Autor(S) ##
 
-Texture  :
+* (C) 2000 ViPeR (viper@mttestdriver.com): 3dmodel
+* (C) 2002 Jean-Christophe Durieu: texture
 
-Copyright © 2002 Jean-Christophe Durieu
-Copyleft: this work of art is free, you can redistribute
-it and/or modify it according to terms of the Free Art license.
-You will find a specimen of this license on the site
-Copyleft Attitude http://artlibre.org as well as on other sites.
+## Licence ##
+
+Free Art license
+
+## Car name ##
+
+Acura-nsx-sz
+
+## Car Category ##
+
+Supercars
+
+## Car Folder ##
+
+acura-nsx-sz

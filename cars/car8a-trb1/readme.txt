@@ -9,7 +9,7 @@ GPL v2+
 
 ## Car name ##
 
-Silber RBLK TC-Edition
+Vieringe RB5 TC Edition
 
 ## Car Category ##
 
@@ -17,4 +17,4 @@ TRB1
 
 ## Car Folder ##
 
-car5a-trb1
+car8a-trb1

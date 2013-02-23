@@ -1,6 +1,6 @@
 ## Autor(S) ##
 
-* (C) 2008 Jean-Philippe MEURET (jpmeuret@free.fr)
+* (C) 2004 SpeedyChonChon
 
 ## Licence ##
 
@@ -8,12 +8,12 @@ GPL v2+
 
 ## Car name ##
 
-Supervulture S12
+Tinder SD Closetop
 
 ## Car Category ##
 
-LS-GT1
+tb70
 
 ## Car Folder ##
 
-ls1-supervulture
+tb70-tinder-sf1-bt

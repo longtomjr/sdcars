@@ -1,6 +1,6 @@
 ## Autor(S) ##
 
-* (C) 2008 Jean-Philippe MEURET (jpmeuret@free.fr)
+* (C) 2001 Eric Espi
 
 ## Licence ##
 
@@ -8,12 +8,12 @@ GPL v2+
 
 ## Car name ##
 
-Supervulture S12
+MP4 Bavaria
 
 ## Car Category ##
 
-LS-GT1
+MP4
 
 ## Car Folder ##
 
-ls1-supervulture
+mp4

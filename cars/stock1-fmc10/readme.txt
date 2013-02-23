@@ -1,6 +1,6 @@
 ## Autor(S) ##
 
-* (C) 2008 Jean-Philippe MEURET (jpmeuret@free.fr)
+* (C) 2012 Bernhard Wymann (berniw@bluewin.ch)
 
 ## Licence ##
 
@@ -8,12 +8,12 @@ GPL v2+
 
 ## Car name ##
 
-Supervulture S12
+Stockcar FMC 10
 
 ## Car Category ##
 
-LS-GT1
+stock1
 
 ## Car Folder ##
 
-ls1-supervulture
+stock1-fmc10

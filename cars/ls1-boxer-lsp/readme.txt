@@ -1,6 +1,7 @@
 ## Autor(S) ##
 
-* (C) 2008 Jean-Philippe MEURET (jpmeuret@free.fr)
+* (C) 2006 Bernhard Wymann (berniw@bluewin.ch)
+* (C) W E C: 3dmodel
 
 ## Licence ##
 
@@ -8,7 +9,7 @@ GPL v2+
 
 ## Car name ##
 
-Supervulture S12
+Boxer LSp
 
 ## Car Category ##
 
@@ -16,4 +17,4 @@ LS-GT1
 
 ## Car Folder ##
 
-ls1-supervulture
+ls1-boxer-lsp

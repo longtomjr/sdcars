@@ -1,11 +1,23 @@
-Ford GT model
---
-Derived from a model Copyright © 2006 Xentek Car Design, used with permission.
-Model modifications and texture Copyright © 2006 Andrew Sumner
+## Autor(S) ##
 
-Copyleft: this work of art is free, you can redistribute
-it and/or modify it according to terms of the Free Art license.
-You will find a specimen of this license on the site
-Copyleft Attitude http://artlibre.org as well as on other sites.
+* (C) 2002 Christophe Guionneau (Eric.Espie@torcs.org)
+* (C) 2006 Xentek Car Design, used with permission.
+* (C) 2006 Andrew Sumner: Model modifications and texture 
+* 
 
+## Licence ##
 
+Free Art license.
+GPL v2+
+
+## Car name ##
+
+Gulf GT40
+
+## Car Category ##
+
+Preview
+
+## Car Folder ##
+
+gulfgt

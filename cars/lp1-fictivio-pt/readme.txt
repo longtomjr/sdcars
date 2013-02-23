@@ -1,6 +1,6 @@
 ## Autor(S) ##
 
-* (C) 2008 Jean-Philippe MEURET (jpmeuret@free.fr)
+* (C) 2004 SpeedyChonChon (speedy.chonchon@free.fr)
 
 ## Licence ##
 
@@ -8,12 +8,12 @@ GPL v2+
 
 ## Car name ##
 
-Supervulture S12
+Fictivio PT
 
 ## Car Category ##
 
-LS-GT1
+LS-P1
 
 ## Car Folder ##
 
-ls1-supervulture
+lp1-fictivio-pt

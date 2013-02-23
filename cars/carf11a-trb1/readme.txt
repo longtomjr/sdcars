@@ -1,6 +1,7 @@
 ## Autor(S) ##
 
-* (C) 2008 Jean-Philippe MEURET (jpmeuret@free.fr)
+* (C) 2007 Eric Espié
+* (C) Berhard Wymann (berniw@bluewin.ch)
 
 ## Licence ##
 
@@ -8,12 +9,12 @@ GPL v2+
 
 ## Car name ##
 
-Supervulture S12
+Neutron RB1
 
 ## Car Category ##
 
-LS-GT1
+TRB1
 
 ## Car Folder ##
 
-ls1-supervulture
+carf11a-trb1

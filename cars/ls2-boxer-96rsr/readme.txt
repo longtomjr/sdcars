@@ -1,14 +1,27 @@
-﻿Sports car model
+## Autor(S) ##
 
---
-Copyright  2002 Eric Espie, Jean-Christophe Durieu
-Copyright  2005 Olaf Sa�ick, Bernhard Wymann
-Copyright  2007 Bernhard Wymann (totally reworked, renamed, based on old model)
-Setup by Wolf-Dieter Beelitz, Kristóf Kály-Kullai 2010
-W-E-C (less wide, front- and rear bumper revised)
+* (C) 2002 Eric Espie
+* (C) Jean-Christophe Durieu
+* (C) 2005 Olaf Sa�ick, 
+* (C) 2007 Bernhard Wymann: totally rework ed, renamed, based on old model
+* (C) Wolf-Dieter Beelitz: setup
+* (C) 2010 Kristóf Kály-Kullai
+* (C) 2010 W-E-C: less wide, front- and rear bumper revised
+* (C) 2010 Haruna Say
 
-Copyleft: this work of art is free, you can redistribute
-it and/or modify it according to terms of the Free Art license.
-You will find a specimen of this license on the site
-Copyleft Attitude http://artlibre.org as well as on other sites.
+## Licence ##
 
+Free Art license
+GPL v2+
+
+## Car name ##
+
+Boxer 96 LS-RSR
+
+## Car Category ##
+
+LS-GT2
+
+## Car Folder ##
+
+ls2-boxer-96rsr

@@ -1,15 +1,30 @@
-Sports car model
---
+## Autor(S) ##
 
-(c) 2000  ViPeR (model) (viper@mttestdriver.com)
-(c) 2002 Eric Espie (texture)
-(c) 2004, 2005 Bernhard Wymann (totally reworked everything)
-(c) 2005 Andrew Sumner (totally reworked everything)
-(c) 2006 Bernhard Wymann (totally reworked everything)
-(c) 2009 Andrew Sumner (totally reworked everything - mostly)
-(c) W-E-C 2011 (SC-version)
+* (C) Bernhard Wymann (berniw@bluewin.ch)
+* (C) 2000 ViPeR (viper@mttestdriver.com): 3dmodel
+* (C) 2002 Eric Espie: texture
+* (C) 2002 Christophe Guionneau (Eric.Espie@torcs.org)
+* (C) 2004, 2005 Bernhard Wymann : totally reworked everything
+* (C) 2005 Andrew Sumner: totally reworked every thing
+* (C) 2006 Bernhard Wymann: totally reworked everything
+* (C) 2007 Eric Espié
+* (C) 2009 Andrew Sumner: totally reworked everything - mostly
+* (C) 2011 W-E-C : SC-version
+* 
 
-Copyleft: this work of art is free, you can redistribute
-it and/or modify it according to terms of the Free Art license.
-You will find a specimen of this license on the site
-Copyleft Attitude http://artlibre.org as well as on other sites.
+## Licence ##
+
+Free Art license
+GPL v2+
+
+## Car name ##
+
+Taipan GSr
+
+## Car Category ##
+
+Supercars
+
+## Car Folder ##
+
+sc-taipan
