@@ -1,4 +1,4 @@
-<params name="1957 Bel Aero" type="template">
+<params name="1957 FMC Merc" type="template">
 
   <section name="Bonnet">
     
@@ -9,15 +9,16 @@
 
   <section name="Driver">
     
-    <attnum name="xpos" unit="m" val="0.31" />
-    <attnum name="ypos" unit="m" val="0.38" />
-    <attnum name="zpos" unit="m" val="1.00" />
+    <attnum name="xpos" unit="m" val="0.32" />
+    <attnum name="ypos" unit="m" val="0.40" />
+    <attnum name="zpos" unit="m" val=".95" />
   </section>
 
   <section name="Sound">
-	<attstr name="engine sample" val="SmBlkChev.wav" />
-	<attnum name="rpm scale" val=".89" />
+	<attstr name="engine sample" val="Ford-Y-Block.wav" />
+	<attnum name="rpm scale" val=".86" />
   </section>
+
 
   <section name="Graphic Objects">
     <attstr name="wheel texture" val="wheel3d.png" />
@@ -32,7 +33,7 @@
     <section name="Ranges">
       <section name="1">
 	<attnum name="threshold" val="0" />
-	<attstr name="car" val="nascar-deckard-57ba.acc" />
+	<attstr name="car" val="nascar-fmc-57merc.acc" />
       </section>
     </section>
 
@@ -43,16 +44,16 @@
 
   <section name="Car">
     <attstr name="category" val="Nascar" />    
-    <attnum name="body length" unit="m" val="5.00" />
-    <attnum name="body width" unit="m" val="1.80" />
-    <attnum name="body height" unit="m" val="1.37" />
+    <attnum name="body length" unit="m" val="5.5" />
+    <attnum name="body width" unit="m" val="1.98" />
+    <attnum name="body height" unit="m" val="1.18" />
     
-    <attnum name="overall length" unit="m" val="5.00" />
-    <attnum name="overall width" unit="m" val="1.80" />
-    <attnum name="mass" unit="kg" val="1477.0" />
+    <attnum name="overall length" unit="m" val="5.5" />
+    <attnum name="overall width" unit="m" val="1.98" />
+    <attnum name="mass" unit="kg" val="1846.0" />
     <attnum name="GC height" unit="m" val="0.385" />
     
-    <attnum name="front-rear weight repartition" val="0.55" />
+    <attnum name="front-rear weight repartition" val="0.57" />
     <attnum name="front right-left weight repartition" val="0.5" />
     <attnum name="rear right-left weight repartition" val="0.5" />
     
@@ -75,12 +76,12 @@
 			<attnum name="zpos" val="0.04" />
 		</section>
 	</section>
-
+	
   <section name="Aerodynamics">
-    <attnum name="Cx" val="0.61" />
+    <attnum name="Cx" val="0.50" />
     <attnum name="front area" unit="m2" val="1.80" />
-    <attnum name="front Clift" val="0.61" />
-    <attnum name="rear Clift" val="0.61" />
+    <attnum name="front Clift" val="0.63" />
+    <attnum name="rear Clift" val="0.63" />
   </section>
 
   <section name="Front Wing">
@@ -92,13 +93,13 @@
   </section>
 
   <section name="Engine">
-    <attnum name="capacity" unit="l" val="4.64" />
+    <attnum name="capacity" unit="l" val="6.03" />
     <attnum name="cylinders" val="8" />
     <attstr in="v,l,h,w" name="shape" val="v" />
     <attstr in="front,front-mid,mid,rear-mid,rear," name="position" val="front" />
     <attnum name="inertia" unit="kg.m2" val="0.153" />
-    <attnum name="revs limiter" unit="rpm" val="7500" />
-    <attnum name="revs maxi" unit="rpm" val="7500" />
+    <attnum name="revs limiter" unit="rpm" val="7000" />
+    <attnum name="revs maxi" unit="rpm" val="7000" />
     <attnum name="tickover" unit="rpm" val="395" />
     <attnum name="fuel cons factor" val="2.7" />
     <attnum name="brake linear coefficient" val="0.023" />
@@ -111,100 +112,95 @@
 
       <section name="2">
         <attnum name="rpm" unit="rpm" val="395" />
-        <attnum name="Tq" unit="N.m" val="397.77" />
+        <attnum name="Tq" unit="N.m" val="543.88" />
       </section>
 
       <section name="3">
         <attnum name="rpm" unit="rpm" val="789" />
-        <attnum name="Tq" unit="N.m" val="399.98" />
+        <attnum name="Tq" unit="N.m" val="546.90" />
       </section>
 
       <section name="4">
         <attnum name="rpm" unit="rpm" val="1184" />
-        <attnum name="Tq" unit="N.m" val="400.71" />
+        <attnum name="Tq" unit="N.m" val="547.91" />
       </section>
 
       <section name="5">
         <attnum name="rpm" unit="rpm" val="1579" />
-        <attnum name="Tq" unit="N.m" val="408.81" />
+        <attnum name="Tq" unit="N.m" val="558.99" />
       </section>
 
       <section name="6">
         <attnum name="rpm" unit="rpm" val="1974" />
-        <attnum name="Tq" unit="N.m" val="409.26" />
+        <attnum name="Tq" unit="N.m" val="559.60" />
       </section>
 
       <section name="7">
         <attnum name="rpm" unit="rpm" val="2368" />
-        <attnum name="Tq" unit="N.m" val="409.55" />
+        <attnum name="Tq" unit="N.m" val="560.00" />
       </section>
 
       <section name="8">
         <attnum name="rpm" unit="rpm" val="2763" />
-        <attnum name="Tq" unit="N.m" val="413.52" />
+        <attnum name="Tq" unit="N.m" val="562.99" />
       </section>
 
       <section name="9">
         <attnum name="rpm" unit="rpm" val="3158" />
-        <attnum name="Tq" unit="N.m" val="409.92" />
+        <attnum name="Tq" unit="N.m" val="560.50" />
       </section>
 
       <section name="10">
         <attnum name="rpm" unit="rpm" val="3553" />
-        <attnum name="Tq" unit="N.m" val="410.04" />
+        <attnum name="Tq" unit="N.m" val="560.67" />
       </section>
 
       <section name="11">
         <attnum name="rpm" unit="rpm" val="3947" />
-        <attnum name="Tq" unit="N.m" val="402.19" />
+        <attnum name="Tq" unit="N.m" val="549.93" />
       </section>
 
       <section name="12">
         <attnum name="rpm" unit="rpm" val="4342" />
-        <attnum name="Tq" unit="N.m" val="384.51" />
+        <attnum name="Tq" unit="N.m" val="525.75" />
       </section>
 
       <section name="13">
         <attnum name="rpm" unit="rpm" val="4737" />
-        <attnum name="Tq" unit="N.m" val="361.50" />
+        <attnum name="Tq" unit="N.m" val="495.56" />
       </section>
 
       <section name="14">
         <attnum name="rpm" unit="rpm" val="5132" />
-        <attnum name="Tq" unit="N.m" val="335.00" />
+        <attnum name="Tq" unit="N.m" val="459.00" />
       </section>
 
       <section name="15">
         <attnum name="rpm" unit="rpm" val="5526" />
-        <attnum name="Tq" unit="N.m" val="311.00" />
+        <attnum name="Tq" unit="N.m" val="425.34" />
       </section>
 
       <section name="16">
         <attnum name="rpm" unit="rpm" val="5921" />
-        <attnum name="Tq" unit="N.m" val="287.86" />
+        <attnum name="Tq" unit="N.m" val="393.61" />
       </section>
 
       <section name="17">
         <attnum name="rpm" unit="rpm" val="6316" />
-        <attnum name="Tq" unit="N.m" val="263.80" />
+        <attnum name="Tq" unit="N.m" val="360.70" />
       </section>
       
       <section name="18">
         <attnum name="rpm" unit="rpm" val="6711" />
-        <attnum name="Tq" unit="N.m" val="241.78" />
+        <attnum name="Tq" unit="N.m" val="330.60" />
       </section>
       
-      <section name="19">
-        <attnum name="rpm" unit="rpm" val="7105" />
-        <attnum name="Tq" unit="N.m" val="220.98" />
-      </section>
-      
-      <section name="20">
-        <attnum name="rpm" unit="rpm" val="7500" />
+       <section name="19">
+        <attnum name="rpm" unit="rpm" val="7000" />
         <attnum name="Tq" unit="N.m" val="0.00" />
-      </section>
-      
-   </section>
+      </section>     
+   
+    </section>
   </section>
 
   <section name="Clutch">
@@ -216,17 +212,17 @@
     <attnum name="shift time" unit="s" val="0.5" />
     <section name="gears">
       <section name="r">
-	<attnum max="0.0" min="-10.0" name="ratio" val="-2.94" />
+	<attnum max="0.0" min="-10.0" name="ratio" val="-3.15" />
 	<attnum name="inertia" val="0.0037" />
-	<attnum name="efficiency" val="0.96" />
+	<attnum name="efficiency" val="0.95" />
       </section>
       <section name="1">
-	<attnum max="10" min="0" name="ratio" val="2.94" />
+	<attnum max="10" min="0" name="ratio" val="2.49" />
 	<attnum name="inertia" val="0.003" />
 	<attnum name="efficiency" val="0.96" />
       </section>
       <section name="2">
-	<attnum max="10" min="0" name="ratio" val="1.65" />
+	<attnum max="10" min="0" name="ratio" val="1.59" />
 	<attnum name="inertia" val="0.0037" />
 	<attnum name="efficiency" val="0.96" />
       </section>
@@ -257,7 +253,7 @@
   </section>
 
   <section name="Steer">
-    <attnum max="60" min="1" name="steer lock" unit="deg" val="25" />
+    <attnum max="60" min="1" name="steer lock" unit="deg" val="27" />
     <attnum name="max steer speed" unit="deg/s" val="70" />
   </section>
 
@@ -267,7 +263,7 @@
   </section>
 
   <section name="Front Axle">
-    <attnum name="xpos" unit="m" val="1.73" />
+    <attnum name="xpos" unit="m" val="1.93" />
     <attnum name="inertia" unit="kg.m2" val="0.0056" />
   </section>
 
@@ -283,7 +279,7 @@
     <section name="Rear Differential">
       <attstr in="FREE,LIMITED SLIP" name="type" val="FREE" />
       <attnum name="inertia" unit="kg.m2" val="0.07" />
-      <attnum max="10" min="0" name="ratio" val="3.90" />
+      <attnum max="10" min="0" name="ratio" val="3.70" />
       <attnum name="efficiency" val="0.9316" />
     </section>
 
@@ -292,10 +288,10 @@
     </section>
 
   <section name="Front Right Wheel">
-    <attnum name="ypos" unit="m" val="-0.77" />
+    <attnum name="ypos" unit="m" val="-0.74" />
     <attnum name="rim diameter" unit="in" val="15.0" />
     <attnum name="tire width" unit="mm" val="195" />
-    <attnum name="tire height-width ratio" val=".70" />
+    <attnum name="tire height-width ratio" val="0.70" />
     <attnum name="inertia" unit="kg.m2" val="2.4" />
     
     <attnum max="300" min="50" name="ride height" unit="mm" val="228" />
@@ -306,13 +302,13 @@
     <attnum name="mass" unit="kg" val="27.8" />
     <attnum name="operating load" unit="N" val="2032" />
     <attnum name="load factor min" val=".75" />
-    <attnum name="dynamic friction" unit="%" val="74" />
+    <attnum name="dynamic friction" unit="%" val="70" />
     <attnum name="rolling resistance" val="0.02" />
     <attnum name="mu" val="1.1" />
   </section>
 
   <section name="Front Left Wheel">
-    <attnum name="ypos" unit="m" val="0.77" />
+    <attnum name="ypos" unit="m" val="0.74" />
     <attnum name="rim diameter" unit="in" val="15.0" />
     <attnum name="tire width" unit="mm" val="195" />
     <attnum name="tire height-width ratio" val="0.70" />
@@ -326,13 +322,13 @@
     <attnum name="mass" unit="kg" val="27.8" />
     <attnum name="operating load" unit="N" val="2032" />
     <attnum name="load factor min" val=".75" />
-    <attnum name="dynamic friction" unit="%" val="74" />
+    <attnum name="dynamic friction" unit="%" val="70" />
     <attnum name="rolling resistance" val="0.02" />
     <attnum name="mu" val="1.1" />
   </section>
 
   <section name="Rear Right Wheel">
-    <attnum name="ypos" unit="m" val="-0.77" />
+    <attnum name="ypos" unit="m" val="-0.80" />
     <attnum name="rim diameter" unit="in" val="15.0" />
     <attnum name="tire width" unit="mm" val="195" />
     <attnum name="tire height-width ratio" val="0.70" />
@@ -346,13 +342,13 @@
     <attnum name="mass" unit="kg" val="29.1" />
     <attnum name="operating load" unit="N" val="2228" />
     <attnum name="load factor min" val=".85" />
-    <attnum name="dynamic friction" unit="%" val="74" />
+    <attnum name="dynamic friction" unit="%" val="70" />
     <attnum name="rolling resistance" val="0.02" />
     <attnum name="mu" val="1.1" />
   </section>
 
   <section name="Rear Left Wheel">
-    <attnum name="ypos" unit="m" val="0.77" />
+    <attnum name="ypos" unit="m" val="0.80" />
     <attnum name="rim diameter" unit="in" val="15.0" />
     <attnum name="tire width" unit="mm" val="195" />
     <attnum name="tire height-width ratio" val="0.70" />
@@ -366,7 +362,7 @@
     <attnum name="mass" unit="kg" val="29.1" />
     <attnum name="operating load" unit="N" val="2228" />
     <attnum name="load factor min" val=".85" />
-    <attnum name="dynamic friction" unit="%" val="74" />
+    <attnum name="dynamic friction" unit="%" val="70" />
     <attnum name="rolling resistance" val="0.02" />
     <attnum name="mu" val="1.1" />
   </section>
@@ -455,14 +451,14 @@
 
   <section name="Rear Right Brake">
     <attnum name="disk diameter" unit="mm" val="280" />
-    <attnum name="piston area" unit="cm2" val="28" />
+    <attnum name="piston area" unit="cm2" val="30" />
     <attnum name="mu" val="0.60" />
     <attnum name="inertia" unit="kg.m2" val="0.1241" />
   </section>
 
   <section name="Rear Left Brake">
     <attnum name="disk diameter" unit="mm" val="280" />
-    <attnum name="piston area" unit="cm2" val="28" />
+    <attnum name="piston area" unit="cm2" val="30" />
     <attnum name="mu" val="0.60" />
     <attnum name="inertia" unit="kg.m2" val="0.1241" />
   </section>
