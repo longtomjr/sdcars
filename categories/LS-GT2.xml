@@ -18,7 +18,7 @@
 
 <params name="Long Day Series GT2" type="template">
   <section name="Car">
-    <!-- LongDay Series GT1 -->
+    <!-- LongDay Series GT2 -->
     <attstr name="category" val="LS-GT2"/>
     <attnum name="body length" unit="m" min="4.0" max="5.0" val="4.683"/>
     <attnum name="body width" unit="m" min="0.8" max="2.2" val="1.4"/>

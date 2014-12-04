@@ -2,7 +2,7 @@
 <!-- 
     file        : Historic.xml
     created     : Thu Aug  7 22:14:49 CEST 2003
-    copyright   : (C) 2003 by Eric Espié                         
+    copyright   : (C) 2003 by Eric Espie                         
     email       : Eric.Espie@torcs.org   
     version     : $Id: Historic.xml,v 1.3 2003/12/13 16:53:29 torcs Exp $                                  
 -->
@@ -13,10 +13,12 @@
 <!--    (at your option) any later version.                                   -->
 
 
+
 <!DOCTYPE params SYSTEM "../../../../src/libs/tgf/params.dtd">
 
 <params name="Historic" type="template" mode="mw">
   <section name="Car">
+
     <attstr name="category" val="Historic"/>
     <attnum name="body length" min="1.5" max="7.0" unit="m" val="4.0"/>
     <attnum name="body width" min="0.5" max="4.0" unit="m" val="1.7"/>
