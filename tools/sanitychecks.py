@@ -17,10 +17,39 @@ import sys
 import shutil
 import xml.etree.ElementTree as ET
 
+#=====================
+# get a list of available categories
+#=====================
 
+print "=================================="
+print "Checking sanity of category files:"
+print "=================================="
+categoryNames={};
+categoriesFiles =  os.listdir('./../categories/')
+for file in categoriesFiles:
+	
+	#rename the file
+
+	tree = ET.parse('./../categories/'+file)
+
+	#and get the root of the xml tree
+	root = tree.getroot()
+
+	categoryName = root.findall("./section[@name='Car']/attstr[@name='category']")[0].attrib['val']
+	categoryNames[categoryName]=''
+	if categoryName+".xml" == file:
+		print "ok: "+file
+	else:
+		print file+" wrong "+categoryName
+		print "Renaming category file "+file+" to "+categoryName+".xml";
+		os.rename('./../categories/'+file, './../categories/'+categoryName+".xml")
+		print "Done!"
 #=====================
 # folder renaming
 #=====================
+print "=================================="
+print "Checking sanity of car files:"
+print "=================================="
 #get a list of the folders in the cars directory
 carFolders =  os.listdir('./../cars/')
 
@@ -54,8 +83,8 @@ for folder in carFolders:
 		if oldFileName != newFileName:
 			print "Need to rename file: "+oldFileName+" from "+newDirName
 
-			oldFileUrl= newDirName+oldFileName
-			newFileUrl=newDirName+newFileName
+			oldFileUrl = newDirName+oldFileName
+			newFileUrl = newDirName+newFileName
 
 			#rename the file
 			os.rename(oldFileUrl, newFileUrl)
@@ -109,6 +138,10 @@ for folder in carFolders:
 		carCategory=category.attrib['val']
 		#if category.attrib['val'] != str.lower(category.attrib['val']):
 		#	print "Fixing "+category.attrib['val'];
+	if not categoryNames.has_key(carCategory):
+#		print "valid category"
+#	else:
+		print "INVALID category -"+ carCategory +"- for car "+newDirName;
 
 	#save the modified xml file
 	tree.write(xmlFileUrl)
