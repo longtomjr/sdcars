@@ -85,7 +85,7 @@
   </section>
 
   <section name="Car">
-    <attstr name="category" val="LS2" />
+    <attstr name="category" val="LS-GT2" />
     <attnum name="body length" unit="m" val="4.54" />
     <attnum name="body width" unit="m" val="1.84" />
     <attnum name="body height" unit="m" val="1.17" />

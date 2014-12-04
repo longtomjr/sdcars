@@ -93,7 +93,7 @@
   </section>
 
   <section name="Car">
-    <attstr name="category" val="free" />
+    <attstr name="category" val="Preview" />
     <attnum name="body length" unit="m" val="4.613" />
     <attnum name="body width" unit="m" val="1.95" />
     <attnum name="body height" unit="m" val="1.0" />

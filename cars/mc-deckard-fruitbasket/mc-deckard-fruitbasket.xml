@@ -45,7 +45,7 @@
   </section>
 
   <section name="Car">
-    <attstr name="category" val="preview" />    
+    <attstr name="category" val="Preview" />    
     <attnum name="body length" unit="m" val="5.37" />
     <attnum name="body width" unit="m" val="2.00" />
     <attnum name="body height" unit="m" val="1.46" />

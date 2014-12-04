@@ -203,7 +203,7 @@
 		<attnum name="tickover" unit="rpm" val="1000" />
 		<attnum name="fuel cons factor" val="1.05" />
 		<attstr name="turbo" val="false" />
-		<attstr name="capacity" unit="l" val="3.6" />
+		<attnum name="capacity" unit="l" val="3.6" />
 		<attnum name="cylinders" val="6" />
 		<attstr in="v,l,h,w" name="shape" val="l" />
 		<attstr in="front,front-mid,mid,rear-mid,rear," name="position" val="rear" />
