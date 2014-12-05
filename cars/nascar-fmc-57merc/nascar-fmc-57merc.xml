@@ -15,7 +15,7 @@
   </section>
 
   <section name="Sound">
-	<attstr name="engine sample" val="Ford-Y-Block.wav" />
+	<attstr name="engine sample" val="ford-y-block.wav" />
 	<attnum name="rpm scale" val=".86" />
   </section>
 

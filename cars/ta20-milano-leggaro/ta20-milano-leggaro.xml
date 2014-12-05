@@ -15,7 +15,7 @@
   </section>
 
   <section name="Sound">
-	<attstr name="engine sample" val="AlfaGTA.wav" />
+	<attstr name="engine sample" val="alfagta.wav" />
 	<attnum name="rpm scale" val=".87" />
   </section>
 

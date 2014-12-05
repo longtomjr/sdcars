@@ -15,7 +15,7 @@
   </section>
 
   <section name="Sound">
-	<attstr name="engine sample" val="SmBlkChev.wav" />
+	<attstr name="engine sample" val="smblkchev.wav" />
 	<attnum name="rpm scale" val=".88" />
   </section>
 

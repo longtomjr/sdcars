@@ -95,98 +95,98 @@
      </section>
      <section name="2">
         <attnum name="steer" val="-0.05" />
-	<attstr name="driver" val="driverR0.acc" />
+	<attstr name="driver" val="driverr0.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="3">
         <attnum name="steer" val="-0.1" />
-	<attstr name="driver" val="driverR1.acc" />
+	<attstr name="driver" val="driverr1.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="4">
         <attnum name="steer" val="-0.25" />
-	<attstr name="driver" val="driverR1.acc" />
+	<attstr name="driver" val="driverr1.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="5">
         <attnum name="steer" val="-0.4" />
-	<attstr name="driver" val="driverR3.acc" />
+	<attstr name="driver" val="driverr3.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="6">
         <attnum name="steer" val="-0.65" />
-	<attstr name="driver" val="driverR4.acc" />
+	<attstr name="driver" val="driverr4.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="7">
         <attnum name="steer" val="-0.8" />
-	<attstr name="driver" val="driverR5.acc" />
+	<attstr name="driver" val="driverr5.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="8">
         <attnum name="steer" val="-0.95" />
-	<attstr name="driver" val="driverR6.acc" />
+	<attstr name="driver" val="driverr6.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="9">
         <attnum name="steer" val="0.05" />
-	<attstr name="driver" val="driverL0.acc" />
+	<attstr name="driver" val="driverl0.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="10">
         <attnum name="steer" val="0.1" />
-	<attstr name="driver" val="driverL1.acc" />
+	<attstr name="driver" val="driverl1.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="11">
         <attnum name="steer" val="0.25" />
-	<attstr name="driver" val="driverL2.acc" />
+	<attstr name="driver" val="driverl2.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="12">
         <attnum name="steer" val="0.4" />
-	<attstr name="driver" val="driverL3.acc" />
+	<attstr name="driver" val="driverl3.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="13">
         <attnum name="steer" val="0.65" />
-	<attstr name="driver" val="driverL4.acc" />
+	<attstr name="driver" val="driverl4.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="14">
         <attnum name="steer" val="0.8" />
-	<attstr name="driver" val="driverL5.acc" />
+	<attstr name="driver" val="driverl5.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
      </section>
      <section name="15">
         <attnum name="steer" val="0.95" />
-	<attstr name="driver" val="driverL6.acc" />
+	<attstr name="driver" val="driverl6.acc" />
         <attnum name="xpos" val="0" />
         <attnum name="ypos" val="0" />
         <attnum name="zpos" val="0" />
