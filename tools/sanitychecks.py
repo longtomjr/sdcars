@@ -17,6 +17,7 @@ import sys
 import shutil
 import xml.etree.ElementTree as ET
 import re
+import string
 currentDir = '';
 
 #
@@ -43,16 +44,20 @@ def check( xmlEntity ):
 		if fileExtension == '.ac' or fileExtension == '.acc':
 			print "Checking textures for "+fileName+fileExtension;
 
-			with open (fileName+fileExtension, "w+b") as myfile:
+			with open (fileName+fileExtension, "r") as myfile:
 				text=myfile.read()
+				myfile.close()
 				for m in re.finditer(r"(?<=texture \")(.*)(?=\")", text):
-					textureFileUrl = currentDir+m.group(0);
+					textureFileUrl = m.group(0);
 					textureFileUrlLowercase = textureFileUrl.lower();
 					if textureFileUrl != textureFileUrlLowercase:
-						print "=== replaced ==="
-						text.replace(textureFileUrl, textureFileUrlLowercase)
+						print "=== replaced ==="+textureFileUrl+" **** "+textureFileUrlLowercase 
+						text = string.replace(text,textureFileUrl, textureFileUrlLowercase)
+						#print text;
+						myfile = open (fileName+fileExtension, "w")
 						myfile.write(text);
-					if not os.path.isfile(textureFileUrl):
+						myfile.close();
+					if not os.path.isfile(currentDir+textureFileUrl):
 						print 'Unable to find file: '+m.group(0)
 					
 	return 
