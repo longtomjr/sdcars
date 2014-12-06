@@ -16,6 +16,49 @@ import os
 import sys
 import shutil
 import xml.etree.ElementTree as ET
+import re
+currentDir = '';
+
+#
+#
+#
+def check( xmlEntity ):
+	"check if a given string is lowercase if not make it lowercase"
+	#fix to lowercase
+	for result in root.findall(xmlEntity):
+		if result.attrib['val'] != str.lower(result.attrib['val']):
+			print "Fixing "+result.attrib['val'];
+			result.attrib['val'] = str.lower(result.attrib['val']);
+			print "Fixed!";
+
+		#check for file existence
+		if not os.path.isfile(currentDir+result.attrib['val']):
+			print 'Unable to find file: '+currentDir+result.attrib['val']
+
+		#if the file is an ac or acc file
+		#check for textures files used existence
+		#file = re.findall('texture".*"', 'texture "carf10-trb1.png" base')
+		fileName, fileExtension = os.path.splitext(currentDir+result.attrib['val'])
+		#print fileName+fileExtension;
+		if fileExtension == '.ac' or fileExtension == '.acc':
+			print "Checking textures for "+fileName+fileExtension;
+
+			with open (fileName+fileExtension, "w+b") as myfile:
+				text=myfile.read()
+				for m in re.finditer(r"(?<=texture \")(.*)(?=\")", text):
+					textureFileUrl = currentDir+m.group(0);
+					textureFileUrlLowercase = textureFileUrl.lower();
+					if textureFileUrl != textureFileUrlLowercase:
+						print "=== replaced ==="
+						text.replace(textureFileUrl, textureFileUrlLowercase)
+						myfile.write(text);
+					if not os.path.isfile(textureFileUrl):
+						print 'Unable to find file: '+m.group(0)
+					
+	return 
+
+
+
 
 #=====================
 # get a list of available categories
@@ -70,6 +113,8 @@ for folder in carFolders:
 #=====================
 # file renaming
 #=====================
+	global currentDir;
+	currentDir = newDirName;
 	# get a list of the files of the current folder
 	folderFiles = os.listdir(newDirName)
 	
@@ -102,36 +147,44 @@ for folder in carFolders:
 	#log the car name
 	carName=root.attrib['name']
 
-	#sound
-	for category in root.findall("./section[@name='Sound']/attstr[@name='engine sample']"):
-		carSoundFile=category.attrib['val']
+	#sound file
+#	check("./section[@name='Sound']/attstr[@name='engine sample']");
 
+	#wheel texture file
+#	check("./section[@name='Graphic Objects']/attstr[@name='wheel texture']");
 
-	#wheel texture
-	for category in root.findall("./section[@name='Graphic Objects']/attstr[@name='wheel texture']"):
-		carWheelTexture=category.attrib['val']
-		if category.attrib['val'] != str.lower(category.attrib['val']):
-			print "Fixing "+category.attrib['val'];
+	#shadow texture file
+	check("./section[@name='Graphic Objects']/attstr[@name='shadow texture']");
 
-	#shadow texture
-	for category in root.findall("./section[@name='Graphic Objects']/attstr[@name='shadow texture']"):
-		carShadowTexture=category.attrib['val']
-		if category.attrib['val'] != str.lower(category.attrib['val']):
-			print "Fixing "+category.attrib['val'];
+	#speedometer texture file
+#	check("./section[@name='Graphic Objects']/attstr[@name='speedometer texture']");
 
-	#speedometer texture
-	for category in root.findall("./section[@name='Graphic Objects']/attstr[@name='speedometer texture']"):
-		carSpeedometerTexture=category.attrib['val']
-		if category.attrib['val'] != str.lower(category.attrib['val']):
-			print "Fixing "+category.attrib['val'];
+	#car acc file
+	check("./section[@name='Graphic Objects']/section[@name='Ranges']/section[@name='1']/attstr[@name='car']");
 
-	#car acc filename
-	for category in root.findall("./section[@name='Graphic Objects']/section[@name='Ranges']/section[@name='1']/attstr[@name='car']"):
-		carFile=category.attrib['val']
-		if category.attrib['val'] != str.lower(category.attrib['val']):
-			print "Fixing "+category.attrib['val'];
-			category.attrib['val'] = str.lower(category.attrib['val']);
-			print "Fixed!";
+	#wheel acc file
+	check("./section[@name='Graphic Objects']/section[@name='Steer Wheel']/attstr[@name='model']");
+
+	#hi res wheel acc file
+	check("./section[@name='Graphic Objects']/section[@name='Steer Wheel']/attstr[@name='hi res model']");
+
+	#driver files
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='1']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='2']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='3']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='4']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='5']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='6']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='7']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='8']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='9']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='10']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='11']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='12']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='13']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='14']/attstr[@name='driver']");
+	check("./section[@name='Graphic Objects']/section[@name='Driver']/section[@name='15']/attstr[@name='driver']");
+
 
 	#car category
 	for category in root.findall("./section[@name='Car']/attstr[@name='category']"):
@@ -139,19 +192,8 @@ for folder in carFolders:
 		#if category.attrib['val'] != str.lower(category.attrib['val']):
 		#	print "Fixing "+category.attrib['val'];
 	if not categoryNames.has_key(carCategory):
-#		print "valid category"
-#	else:
 		print "INVALID category -"+ carCategory +"- for car "+newDirName;
 
 	#save the modified xml file
 	tree.write(xmlFileUrl)
-'''
-	print "======= "+carName+" ======="
-	print xmlFileUrl
-	print carFile
-	print carSoundFile
-	print carWheelTexture
-	print carShadowTexture
-	print carSpeedometerTexture
-	print carCategory+"\n\n"
-'''
+
