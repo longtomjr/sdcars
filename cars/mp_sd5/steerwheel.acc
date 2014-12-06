@@ -4,10 +4,10 @@ OBJECT world
 kids 7
 OBJECT poly
 name "STWOUTER_s_2"
-texture "mp_SD5.png" base
-texture "mp_SD5.png" tiled
-texture "mp_SD5.png" skids
-texture "mp_SD5.png" shad
+texture "mp_sd5.png" base
+texture "mp_sd5.png" tiled
+texture "mp_sd5.png" skids
+texture "mp_sd5.png" shad
 numvert 128
 0.000124 -0.070687 -0.104264 0.883483 -0.403825 -0.237450
 0.000124 -0.070340 -0.079227 0.911390 0.396662 0.109672
@@ -476,10 +476,10 @@ refs 99
 kids 0
 OBJECT poly
 name "STWCENTREP3_s_1"
-texture "mp_SD5.png" base
-texture "mp_SD5.png" tiled
-texture "mp_SD5.png" skids
-texture "mp_SD5.png" shad
+texture "mp_sd5.png" base
+texture "mp_sd5.png" tiled
+texture "mp_sd5.png" skids
+texture "mp_sd5.png" shad
 numvert 57
 -0.006287 -0.020599 -0.052943 1.000000 0.000004 -0.000010
 -0.006287 -0.015019 -0.060555 0.560674 -0.725267 -0.399540
@@ -669,10 +669,10 @@ refs 4
 kids 0
 OBJECT poly
 name "STWCENTREP2_s_3"
-texture "mp_SD5.png" base
-texture "mp_SD5.png" tiled
-texture "mp_SD5.png" skids
-texture "mp_SD5.png" shad
+texture "mp_sd5.png" base
+texture "mp_sd5.png" tiled
+texture "mp_sd5.png" skids
+texture "mp_sd5.png" shad
 numvert 38
 -0.009561 -0.020567 -0.052813 -0.005757 -0.654067 -0.756415
 -0.012418 -0.065416 -0.022090 0.007176 -0.565446 -0.824754
@@ -770,10 +770,10 @@ refs 5
 kids 0
 OBJECT poly
 name "STWCENTREP1_s_2"
-texture "mp_SD5.png" base
-texture "mp_SD5.png" tiled
-texture "mp_SD5.png" skids
-texture "mp_SD5.png" shad
+texture "mp_sd5.png" base
+texture "mp_sd5.png" tiled
+texture "mp_sd5.png" skids
+texture "mp_sd5.png" shad
 numvert 34
 -0.009561 0.028974 0.000680 -1.000000 -0.000680 -0.000052
 -0.009561 -0.020567 -0.052813 -0.998995 0.044817 0.000001
@@ -873,10 +873,10 @@ refs 5
 kids 0
 OBJECT poly
 name "BUTTON_s_0"
-texture "mp_SD5.png" base
-texture "mp_SD5.png" tiled
-texture "mp_SD5.png" skids
-texture "mp_SD5.png" shad
+texture "mp_sd5.png" base
+texture "mp_sd5.png" tiled
+texture "mp_sd5.png" skids
+texture "mp_sd5.png" shad
 numvert 25
 -0.024256 0.011449 0.076137 -0.409602 0.468316 0.782883
 -0.009629 0.014751 0.072699 0.000000 0.827701 0.561169
@@ -962,10 +962,10 @@ refs 52
 kids 0
 OBJECT poly
 name "GLOVELP_s_1"
-texture "mp_SD5.png" base
-texture "mp_SD5.png" tiled
-texture "mp_SD5.png" skids
-texture "mp_SD5.png" shad
+texture "mp_sd5.png" base
+texture "mp_sd5.png" tiled
+texture "mp_sd5.png" skids
+texture "mp_sd5.png" shad
 numvert 98
 -0.180842 -0.099557 -0.132397 0.226552 -0.653461 0.722263
 -0.180842 -0.099557 -0.168657 0.391315 -0.741856 -0.544538
@@ -1307,10 +1307,10 @@ refs 11
 kids 0
 OBJECT poly
 name "ARMLP_s_0"
-texture "mp_SD5.png" base
-texture "mp_SD5.png" tiled
-texture "mp_SD5.png" skids
-texture "mp_SD5.png" shad
+texture "mp_sd5.png" base
+texture "mp_sd5.png" tiled
+texture "mp_sd5.png" skids
+texture "mp_sd5.png" shad
 numvert 72
 -0.530619 -0.000918 -0.151815 -0.868791 -0.486138 -0.094190
 -0.521886 0.020886 -0.058637 -0.913306 -0.361262 0.188046

@@ -4,10 +4,10 @@ OBJECT world
 kids 2
 OBJECT poly
 name "DRIVERVISOR_s_0"
-texture "mp_SD5.png" base
-texture "mp_SD5.png" tiled
-texture "mp_SD5.png" skids
-texture "mp_SD5.png" shad
+texture "mp_sd5.png" base
+texture "mp_sd5.png" tiled
+texture "mp_sd5.png" skids
+texture "mp_sd5.png" shad
 numvert 30
 -0.191765 0.646173 0.050740 -0.478476 -0.862036 0.167199
 -0.125206 0.618800 0.100083 -0.437219 -0.889666 0.131662
@@ -82,10 +82,10 @@ refs 18
 kids 0
 OBJECT poly
 name "DRIVERHEAD_s_1"
-texture "mp_SD5.png" base
-texture "mp_SD5.png" tiled
-texture "mp_SD5.png" skids
-texture "mp_SD5.png" shad
+texture "mp_sd5.png" base
+texture "mp_sd5.png" tiled
+texture "mp_sd5.png" skids
+texture "mp_sd5.png" shad
 numvert 135
 -0.094214 0.793543 0.104446 -0.049944 0.480292 0.875686
 -0.132249 0.803764 0.089798 -0.406789 0.626709 0.664649

@@ -4,10 +4,10 @@ OBJECT world
 kids 19
 OBJECT poly
 name "CAGE2_s_4"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 65
 0.155521 1.067320 0.603730 -0.516881 0.556011 0.650912
 0.149377 1.042960 0.598679 -0.812803 0.085523 0.576227
@@ -221,10 +221,10 @@ refs 16
 kids 0
 OBJECT poly
 name "SPOIL_s_0"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 9
 2.136370 0.105875 -0.693845 0.694710 -0.113964 -0.710204
 2.197950 0.019113 -0.619686 0.701300 -0.139335 -0.699116
@@ -257,10 +257,10 @@ refs 15
 kids 0
 OBJECT poly
 name "BODYUPPER_s_2"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 586
 -1.025540 0.816176 -0.766693 -0.087254 0.404304 -0.910453
 -0.913143 0.795090 -0.780467 0.522340 -0.328066 -0.787104
@@ -2168,10 +2168,10 @@ refs 48
 kids 0
 OBJECT poly
 name "BODYLOW_s_8"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 185
 0.682298 0.798898 -0.261456 -0.048131 0.899298 0.434681
 0.677696 0.793525 -0.259331 -0.917444 0.309573 0.249924
@@ -2686,10 +2686,10 @@ refs 11
 kids 0
 OBJECT poly
 name "BODYMID_s_5"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 886
 2.311010 0.330919 0.335677 0.000000 1.000000 0.000006
 2.270190 0.330920 0.000000 0.000000 1.000000 0.000000
@@ -5394,10 +5394,10 @@ refs 65
 kids 0
 OBJECT poly
 name "FLARES_s_4"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 365
 -1.686140 0.228728 -0.909404 0.472995 -0.554659 -0.684564
 -1.699990 0.169536 -0.871792 0.530027 -0.580480 -0.618155
@@ -6457,10 +6457,10 @@ refs 40
 kids 0
 OBJECT poly
 name "CHASSIS_s_2"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 111
 -1.742060 0.071332 -0.435774 0.417604 -0.755206 -0.505243
 -2.168690 0.127374 -0.679084 -0.131075 -0.991364 -0.004041
@@ -6807,10 +6807,10 @@ refs 11
 kids 0
 OBJECT poly
 name "CHROME_s_21"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 560
 -0.563478 -0.045120 -0.711601 -0.744273 -0.029168 -0.667239
 -0.607655 -0.065528 -0.761781 -0.716467 0.077280 -0.693328
@@ -8772,10 +8772,10 @@ refs 9
 kids 0
 OBJECT poly
 name "DASH_s_4"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 138
 0.610127 0.751277 0.678469 0.088499 0.991796 0.092239
 0.519020 0.753614 0.740754 -0.343100 0.932998 0.108618
@@ -9184,10 +9184,10 @@ refs 22
 kids 0
 OBJECT poly
 name "WIGLASS_s_6"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 73
 -1.402250 0.918031 0.151269 -0.482283 0.875384 0.033260
 -1.404450 0.920490 0.000002 -0.485621 0.874170 0.000000
@@ -9384,10 +9384,10 @@ refs 49
 kids 0
 OBJECT poly
 name "TUNNEL_s_3"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 64
 0.299869 0.407908 0.000196 0.916405 -0.400252 0.000003
 0.296644 0.413493 0.015345 0.708844 -0.328637 0.624130
@@ -9602,10 +9602,10 @@ refs 80
 kids 0
 OBJECT poly
 name "SEAT_s_17"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 383
 0.248294 0.495922 -0.463373 0.822017 0.398565 -0.406736
 0.224504 0.503202 -0.463373 -0.507259 0.813562 -0.284263
@@ -11007,10 +11007,10 @@ refs 4
 kids 0
 OBJECT poly
 name "LIGHTS_s_13"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 284
 2.239630 0.536646 0.681925 0.808714 0.585870 0.052325
 2.076670 0.536646 0.681925 0.000000 0.996035 -0.088958
@@ -11798,10 +11798,10 @@ refs 59
 kids 0
 OBJECT poly
 name "INTERIOR_s_2"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 139
 -1.585480 0.785123 -0.000000 0.606878 0.794795 -0.000000
 -1.597070 0.806244 0.151096 0.796364 0.604331 -0.024252
@@ -12258,10 +12258,10 @@ refs 4
 kids 0
 OBJECT poly
 name "DRIVERHEAD_s_1"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 51
 -0.154121 0.783381 -0.521602 0.772781 -0.015345 -0.634488
 -0.130921 0.884511 -0.449932 0.949165 0.314778 -0.000020
@@ -12432,10 +12432,10 @@ refs 23
 kids 0
 OBJECT poly
 name "GRILL_s_2"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 29
 2.199370 0.307343 -0.634828 0.981005 -0.193984 -0.000000
 2.199370 0.307343 0.634824 0.981005 -0.193984 -0.000000
@@ -12524,10 +12524,10 @@ refs 4
 kids 0
 OBJECT poly
 name "DEALS_s_2"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 67
 0.921254 0.727132 0.153105 0.033681 0.828606 0.558818
 0.921254 0.735587 0.140640 0.036486 0.822608 0.567437
@@ -12683,10 +12683,10 @@ refs 32
 kids 0
 OBJECT poly
 name "CAGE1_s_4"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 80
 -0.627475 0.239787 0.725093 0.213456 0.841722 0.495924
 -0.673400 1.015400 -0.585403 0.877565 0.428594 0.214914
@@ -12923,10 +12923,10 @@ refs 16
 kids 0
 OBJECT poly
 name "CAGE3_s_4"
-texture "TA50-deckard-conejo67.png" base
-texture "TA50-deckard-conejo67.png" tiled
-texture "TA50-deckard-conejo67.png" skids
-texture "TA50-deckard-conejo67.png" shad
+texture "ta50-deckard-conejo67.png" base
+texture "ta50-deckard-conejo67.png" tiled
+texture "ta50-deckard-conejo67.png" skids
+texture "ta50-deckard-conejo67.png" shad
 numvert 60
 -0.700597 1.064920 -0.514973 -0.566407 0.824126 -0.000012
 -1.411790 0.576129 -0.514973 -0.566407 0.824125 -0.000012

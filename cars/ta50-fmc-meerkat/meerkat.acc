@@ -4,10 +4,10 @@ OBJECT world
 kids 3
 OBJECT poly
 name "WIGLASSOBJ_s_8"
-texture "TA50-fmc-meerkat.png" base
-texture "TA50-fmc-meerkat.png" tiled
-texture "TA50-fmc-meerkat.png" skids
-texture "TA50-fmc-meerkat.png" shad
+texture "ta50-fmc-meerkat.png" base
+texture "ta50-fmc-meerkat.png" tiled
+texture "ta50-fmc-meerkat.png" skids
+texture "ta50-fmc-meerkat.png" shad
 numvert 85
 0.680057 0.028971 -0.698543 -0.942398 0.334494 -0.000000
 0.807660 0.388478 -0.301143 -0.942398 0.334494 -0.000000
@@ -234,10 +234,10 @@ refs 5
 kids 0
 OBJECT poly
 name "DRIVERHEADO_s_1"
-texture "TA50-fmc-meerkat.png" base
-texture "TA50-fmc-meerkat.png" tiled
-texture "TA50-fmc-meerkat.png" skids
-texture "TA50-fmc-meerkat.png" shad
+texture "ta50-fmc-meerkat.png" base
+texture "ta50-fmc-meerkat.png" tiled
+texture "ta50-fmc-meerkat.png" skids
+texture "ta50-fmc-meerkat.png" shad
 numvert 51
 -0.056075 0.874376 -0.475398 0.949165 0.314778 -0.000020
 -0.093965 0.874576 -0.395298 0.649011 0.255274 0.716673
@@ -407,10 +407,10 @@ refs 15
 kids 0
 OBJECT poly
 name "CAR01_s_427"
-texture "TA50-fmc-meerkat.png" base
-texture "TA50-fmc-meerkat.png" tiled
-texture "TA50-fmc-meerkat.png" skids
-texture "TA50-fmc-meerkat.png" shad
+texture "ta50-fmc-meerkat.png" base
+texture "ta50-fmc-meerkat.png" tiled
+texture "ta50-fmc-meerkat.png" skids
+texture "ta50-fmc-meerkat.png" shad
 numvert 4545
 2.392360 0.421523 -0.886723 0.877516 0.326870 -0.350887
 2.350790 0.389200 -0.848943 0.442585 -0.020428 0.896494

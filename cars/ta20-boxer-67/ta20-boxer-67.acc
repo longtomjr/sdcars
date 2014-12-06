@@ -4,10 +4,10 @@ OBJECT world
 kids 8
 OBJECT poly
 name "WIGLASS_s_10"
-texture "TA20-boxer-67.png" base
-texture "TA20-boxer-67.png" tiled
-texture "TA20-boxer-67.png" skids
-texture "TA20-boxer-67.png" shad
+texture "ta20-boxer-67.png" base
+texture "ta20-boxer-67.png" tiled
+texture "ta20-boxer-67.png" skids
+texture "ta20-boxer-67.png" shad
 numvert 141
 0.019626 1.007160 0.622675 -0.039439 0.362202 0.931265
 -0.182267 1.000670 0.615267 -0.045936 0.370381 0.927744
@@ -398,10 +398,10 @@ refs 44
 kids 0
 OBJECT poly
 name "DRIVERHEAD_s_2"
-texture "TA20-boxer-67.png" base
-texture "TA20-boxer-67.png" tiled
-texture "TA20-boxer-67.png" skids
-texture "TA20-boxer-67.png" shad
+texture "ta20-boxer-67.png" base
+texture "ta20-boxer-67.png" tiled
+texture "ta20-boxer-67.png" skids
+texture "ta20-boxer-67.png" shad
 numvert 60
 -0.390502 0.901699 -0.482862 -0.351842 0.397763 -0.847344
 -0.393542 0.823069 -0.494562 -0.348508 -0.018767 -0.937118
@@ -597,10 +597,10 @@ refs 11
 kids 0
 OBJECT poly
 name "BOD_s_17"
-texture "TA20-boxer-67.png" base
-texture "TA20-boxer-67.png" tiled
-texture "TA20-boxer-67.png" skids
-texture "TA20-boxer-67.png" shad
+texture "ta20-boxer-67.png" base
+texture "ta20-boxer-67.png" tiled
+texture "ta20-boxer-67.png" skids
+texture "ta20-boxer-67.png" shad
 numvert 368
 0.621533 0.337551 -0.533832 -0.345603 0.930885 -0.118370
 0.376998 0.233599 -0.554322 -0.331499 0.697623 -0.635162
@@ -1691,10 +1691,10 @@ refs 28
 kids 0
 OBJECT poly
 name "05OBJ_s_0"
-texture "TA20-boxer-67.png" base
-texture "TA20-boxer-67.png" tiled
-texture "TA20-boxer-67.png" skids
-texture "TA20-boxer-67.png" shad
+texture "ta20-boxer-67.png" base
+texture "ta20-boxer-67.png" tiled
+texture "ta20-boxer-67.png" skids
+texture "ta20-boxer-67.png" shad
 numvert 6
 0.814075 0.689665 -0.266804 0.099222 0.596913 0.796147
 0.826775 0.670615 -0.254104 0.133511 0.885835 0.444376
@@ -1715,10 +1715,10 @@ refs 6
 kids 0
 OBJECT poly
 name "04OBJ_s_1"
-texture "TA20-boxer-67.png" base
-texture "TA20-boxer-67.png" tiled
-texture "TA20-boxer-67.png" skids
-texture "TA20-boxer-67.png" shad
+texture "ta20-boxer-67.png" base
+texture "ta20-boxer-67.png" tiled
+texture "ta20-boxer-67.png" skids
+texture "ta20-boxer-67.png" shad
 numvert 20
 -0.418509 0.584844 0.812564 0.454382 0.107378 0.884312
 -0.418509 0.546996 0.826504 0.462862 0.473040 0.749661
@@ -1781,10 +1781,10 @@ refs 15
 kids 0
 OBJECT poly
 name "03OBJ_s_0"
-texture "TA20-boxer-67.png" base
-texture "TA20-boxer-67.png" tiled
-texture "TA20-boxer-67.png" skids
-texture "TA20-boxer-67.png" shad
+texture "ta20-boxer-67.png" base
+texture "ta20-boxer-67.png" tiled
+texture "ta20-boxer-67.png" skids
+texture "ta20-boxer-67.png" shad
 numvert 7
 0.471813 0.565218 -0.731634 -0.953029 0.302877 -0.000456
 0.419217 0.486342 0.735973 -0.839462 0.543417 -0.000879
@@ -1808,10 +1808,10 @@ refs 8
 kids 0
 OBJECT poly
 name "02OBJ_s_2"
-texture "TA20-boxer-67.png" base
-texture "TA20-boxer-67.png" tiled
-texture "TA20-boxer-67.png" skids
-texture "TA20-boxer-67.png" shad
+texture "ta20-boxer-67.png" base
+texture "ta20-boxer-67.png" tiled
+texture "ta20-boxer-67.png" skids
+texture "ta20-boxer-67.png" shad
 numvert 50
 0.449007 0.760578 -0.138057 -0.985253 0.170450 0.014967
 0.447188 0.733206 -0.010078 -0.427042 0.895251 0.127126
@@ -1952,10 +1952,10 @@ refs 13
 kids 0
 OBJECT poly
 name "01OBJ_s_334"
-texture "TA20-boxer-67.png" base
-texture "TA20-boxer-67.png" tiled
-texture "TA20-boxer-67.png" skids
-texture "TA20-boxer-67.png" shad
+texture "ta20-boxer-67.png" base
+texture "ta20-boxer-67.png" tiled
+texture "ta20-boxer-67.png" skids
+texture "ta20-boxer-67.png" shad
 numvert 3541
 0.598904 0.691775 -0.645902 -0.699832 -0.369430 0.611357
 0.523170 0.691675 -0.707918 -0.208263 0.585571 0.783412

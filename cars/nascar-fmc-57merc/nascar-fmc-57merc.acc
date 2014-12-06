@@ -4,10 +4,10 @@ OBJECT world
 kids 3
 OBJECT poly
 name "OBJ3_s_188"
-texture "Driver.png" base
-texture "Driver.png" tiled
-texture "Driver.png" skids
-texture "Driver.png" shad
+texture "driver.png" base
+texture "driver.png" tiled
+texture "driver.png" skids
+texture "driver.png" shad
 numvert 1440
 -0.105730 0.874756 -0.730899 -0.810066 0.348705 0.471379
 -0.083293 0.874756 -0.768999 -0.068947 0.497244 -0.864867
@@ -4357,10 +4357,10 @@ refs 14
 kids 0
 OBJECT poly
 name "OBJ2_s_322"
-texture "nascar-fmc-57Merc.png" base
-texture "nascar-fmc-57Merc.png" tiled
-texture "nascar-fmc-57Merc.png" skids
-texture "nascar-fmc-57Merc.png" shad
+texture "nascar-fmc-57merc.png" base
+texture "nascar-fmc-57merc.png" tiled
+texture "nascar-fmc-57merc.png" skids
+texture "nascar-fmc-57merc.png" shad
 numvert 3556
 2.688990 0.256996 0.139645 0.982304 0.176790 -0.061838
 2.686980 0.275026 0.157489 0.690398 0.439191 -0.574858
@@ -14689,10 +14689,10 @@ refs 13
 kids 0
 OBJECT poly
 name "WIGLASS_s_8"
-texture "nascar-fmc-57Merc.png" base
-texture "nascar-fmc-57Merc.png" tiled
-texture "nascar-fmc-57Merc.png" skids
-texture "nascar-fmc-57Merc.png" shad
+texture "nascar-fmc-57merc.png" base
+texture "nascar-fmc-57merc.png" tiled
+texture "nascar-fmc-57merc.png" skids
+texture "nascar-fmc-57merc.png" shad
 numvert 68
 -0.957434 1.072240 0.295745 -0.625543 0.780124 0.010118
 -1.361440 0.748301 -0.295658 -0.625547 0.780085 -0.012607

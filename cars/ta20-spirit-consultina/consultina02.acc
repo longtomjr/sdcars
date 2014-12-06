@@ -4,10 +4,10 @@ OBJECT world
 kids 9
 OBJECT poly
 name "WIGLASS_s_7"
-texture "TA20-spirit-consultina.png" base
-texture "TA20-spirit-consultina.png" tiled
-texture "TA20-spirit-consultina.png" skids
-texture "TA20-spirit-consultina.png" shad
+texture "ta20-spirit-consultina.png" base
+texture "ta20-spirit-consultina.png" tiled
+texture "ta20-spirit-consultina.png" skids
+texture "ta20-spirit-consultina.png" shad
 numvert 63
 -0.204094 1.039090 0.574645 0.000002 0.245902 0.969295
 -0.204094 0.687576 0.663821 0.000001 0.245903 0.969294
@@ -171,10 +171,10 @@ refs 5
 kids 0
 OBJECT poly
 name "DRIVER_s_1"
-texture "TA20-spirit-consultina.png" base
-texture "TA20-spirit-consultina.png" tiled
-texture "TA20-spirit-consultina.png" skids
-texture "TA20-spirit-consultina.png" shad
+texture "ta20-spirit-consultina.png" base
+texture "ta20-spirit-consultina.png" tiled
+texture "ta20-spirit-consultina.png" skids
+texture "ta20-spirit-consultina.png" shad
 numvert 51
 0.056418 0.926043 0.276477 0.648998 0.255254 -0.716692
 0.094308 0.925843 0.356568 0.949164 0.314781 -0.000019
@@ -351,10 +351,10 @@ refs 4
 kids 0
 OBJECT poly
 name "DOORHANDLES_s_1"
-texture "TA20-spirit-consultina.png" base
-texture "TA20-spirit-consultina.png" tiled
-texture "TA20-spirit-consultina.png" skids
-texture "TA20-spirit-consultina.png" shad
+texture "ta20-spirit-consultina.png" base
+texture "ta20-spirit-consultina.png" tiled
+texture "ta20-spirit-consultina.png" skids
+texture "ta20-spirit-consultina.png" shad
 numvert 20
 -0.129370 0.596981 -0.764556 -0.199456 -0.447076 -0.871975
 -0.129329 0.579463 -0.755461 -0.395164 0.196341 -0.897383
@@ -416,10 +416,10 @@ refs 15
 kids 0
 OBJECT poly
 name "INT_s_174"
-texture "TA20-spirit-consultina.png" base
-texture "TA20-spirit-consultina.png" tiled
-texture "TA20-spirit-consultina.png" skids
-texture "TA20-spirit-consultina.png" shad
+texture "ta20-spirit-consultina.png" base
+texture "ta20-spirit-consultina.png" tiled
+texture "ta20-spirit-consultina.png" skids
+texture "ta20-spirit-consultina.png" shad
 numvert 1707
 0.409293 0.256034 0.000546 0.980205 0.077234 -0.182297
 0.406448 0.390702 0.015781 0.983448 0.000314 0.181188
@@ -5386,10 +5386,10 @@ refs 16
 kids 0
 OBJECT poly
 name "BODY_s_230"
-texture "TA20-spirit-consultina.png" base
-texture "TA20-spirit-consultina.png" tiled
-texture "TA20-spirit-consultina.png" skids
-texture "TA20-spirit-consultina.png" shad
+texture "ta20-spirit-consultina.png" base
+texture "ta20-spirit-consultina.png" tiled
+texture "ta20-spirit-consultina.png" skids
+texture "ta20-spirit-consultina.png" shad
 numvert 2943
 1.988670 0.208942 -0.362216 0.990331 -0.138721 -0.000000
 1.988670 0.208942 0.357898 0.990331 -0.138721 -0.000000
@@ -14091,10 +14091,10 @@ refs 31
 kids 0
 OBJECT poly
 name "CHASSIS_s_17"
-texture "TA20-spirit-consultina.png" base
-texture "TA20-spirit-consultina.png" tiled
-texture "TA20-spirit-consultina.png" skids
-texture "TA20-spirit-consultina.png" shad
+texture "ta20-spirit-consultina.png" base
+texture "ta20-spirit-consultina.png" tiled
+texture "ta20-spirit-consultina.png" skids
+texture "ta20-spirit-consultina.png" shad
 numvert 195
 -1.285535 0.256617 0.355600 0.394668 -0.465467 0.792198
 -1.285535 0.224867 0.762478 0.692460 -0.720501 -0.037120
@@ -14620,10 +14620,10 @@ refs 5
 kids 0
 OBJECT poly
 name "GREEN_s_40"
-texture "TA20-spirit-consultina.png" base
-texture "TA20-spirit-consultina.png" tiled
-texture "TA20-spirit-consultina.png" skids
-texture "TA20-spirit-consultina.png" shad
+texture "ta20-spirit-consultina.png" base
+texture "ta20-spirit-consultina.png" tiled
+texture "ta20-spirit-consultina.png" skids
+texture "ta20-spirit-consultina.png" shad
 numvert 535
 -0.248177 0.571086 -0.717550 -0.501484 -0.865167 -0.000000
 -0.262115 0.579165 -0.717550 -1.000000 0.000000 -0.000000
@@ -16249,10 +16249,10 @@ refs 29
 kids 0
 OBJECT poly
 name "FLARES2_s_36"
-texture "TA20-spirit-consultina.png" base
-texture "TA20-spirit-consultina.png" tiled
-texture "TA20-spirit-consultina.png" skids
-texture "TA20-spirit-consultina.png" shad
+texture "ta20-spirit-consultina.png" base
+texture "ta20-spirit-consultina.png" tiled
+texture "ta20-spirit-consultina.png" skids
+texture "ta20-spirit-consultina.png" shad
 numvert 426
 1.010370 0.000000 -0.718454 0.512367 -0.856809 0.057957
 -0.690335 0.000000 -0.718454 0.000000 -1.000000 -0.000000
@@ -17288,10 +17288,10 @@ refs 4
 kids 0
 OBJECT poly
 name "PIPE_s_4"
-texture "TA20-spirit-consultina.png" base
-texture "TA20-spirit-consultina.png" tiled
-texture "TA20-spirit-consultina.png" skids
-texture "TA20-spirit-consultina.png" shad
+texture "ta20-spirit-consultina.png" base
+texture "ta20-spirit-consultina.png" tiled
+texture "ta20-spirit-consultina.png" skids
+texture "ta20-spirit-consultina.png" shad
 numvert 46
 -0.654294 -0.027354 -0.776078 -0.992573 0.043335 0.113669
 -0.470425 0.007437 -0.457035 -0.866575 0.104108 0.488067

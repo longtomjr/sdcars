@@ -4,10 +4,10 @@ OBJECT world
 kids 10
 OBJECT poly
 name "PIPE_s_1"
-texture "TA20-milano-leggaro.png" base
-texture "TA20-milano-leggaro.png" tiled
-texture "TA20-milano-leggaro.png" skids
-texture "TA20-milano-leggaro.png" shad
+texture "ta20-milano-leggaro.png" base
+texture "ta20-milano-leggaro.png" tiled
+texture "ta20-milano-leggaro.png" skids
+texture "ta20-milano-leggaro.png" shad
 numvert 18
 0.741205 0.078458 -0.349091 0.048277 0.981979 -0.182719
 -0.358043 0.078458 -0.639525 -0.048274 0.981981 0.182712
@@ -68,10 +68,10 @@ refs 13
 kids 0
 OBJECT poly
 name "THING5_s_278"
-texture "TA20-milano-leggaro.png" base
-texture "TA20-milano-leggaro.png" tiled
-texture "TA20-milano-leggaro.png" skids
-texture "TA20-milano-leggaro.png" shad
+texture "ta20-milano-leggaro.png" base
+texture "ta20-milano-leggaro.png" tiled
+texture "ta20-milano-leggaro.png" skids
+texture "ta20-milano-leggaro.png" shad
 numvert 2945
 0.792149 0.841026 0.165749 -0.862886 -0.016049 -0.505143
 0.797331 0.840910 0.165695 0.636638 0.761569 -0.121261
@@ -8339,10 +8339,10 @@ refs 30
 kids 0
 OBJECT poly
 name "DRIVER_s_3"
-texture "TA20-milano-leggaro.png" base
-texture "TA20-milano-leggaro.png" tiled
-texture "TA20-milano-leggaro.png" skids
-texture "TA20-milano-leggaro.png" shad
+texture "ta20-milano-leggaro.png" base
+texture "ta20-milano-leggaro.png" tiled
+texture "ta20-milano-leggaro.png" skids
+texture "ta20-milano-leggaro.png" shad
 numvert 62
 -0.206834 1.000070 0.186519 -0.351842 0.397772 -0.847339
 -0.209874 0.921444 0.174819 -0.348509 -0.018764 -0.937118
@@ -8545,10 +8545,10 @@ refs 11
 kids 0
 OBJECT poly
 name "GUY_s_19"
-texture "TA20-milano-leggaro.png" base
-texture "TA20-milano-leggaro.png" tiled
-texture "TA20-milano-leggaro.png" skids
-texture "TA20-milano-leggaro.png" shad
+texture "ta20-milano-leggaro.png" base
+texture "ta20-milano-leggaro.png" tiled
+texture "ta20-milano-leggaro.png" skids
+texture "ta20-milano-leggaro.png" shad
 numvert 371
 -0.142634 0.654704 0.449989 0.501671 0.033678 0.864403
 -0.236324 0.637494 0.430069 -0.887277 -0.333640 0.318472
@@ -9653,10 +9653,10 @@ refs 28
 kids 0
 OBJECT poly
 name "WAVEFRONTOB_s_4"
-texture "TA20-milano-leggaro.png" base
-texture "TA20-milano-leggaro.png" tiled
-texture "TA20-milano-leggaro.png" skids
-texture "TA20-milano-leggaro.png" shad
+texture "ta20-milano-leggaro.png" base
+texture "ta20-milano-leggaro.png" tiled
+texture "ta20-milano-leggaro.png" skids
+texture "ta20-milano-leggaro.png" shad
 numvert 27
 -1.696630 0.737863 -0.374254 0.258663 0.694632 -0.671253
 -1.675290 0.629107 -0.374254 0.490658 0.096277 -0.866017
@@ -9738,10 +9738,10 @@ refs 11
 kids 0
 OBJECT poly
 name "WIGLASS_s_6"
-texture "TA20-milano-leggaro.png" base
-texture "TA20-milano-leggaro.png" tiled
-texture "TA20-milano-leggaro.png" skids
-texture "TA20-milano-leggaro.png" shad
+texture "ta20-milano-leggaro.png" base
+texture "ta20-milano-leggaro.png" tiled
+texture "ta20-milano-leggaro.png" skids
+texture "ta20-milano-leggaro.png" shad
 numvert 78
 0.725024 0.135336 0.030278 -0.961084 0.276256 -0.000000
 0.725024 0.135336 0.555915 -0.961084 0.276256 -0.000000
@@ -9962,10 +9962,10 @@ refs 4
 kids 0
 OBJECT poly
 name "THING1_s_39"
-texture "TA20-milano-leggaro.png" base
-texture "TA20-milano-leggaro.png" tiled
-texture "TA20-milano-leggaro.png" skids
-texture "TA20-milano-leggaro.png" shad
+texture "ta20-milano-leggaro.png" base
+texture "ta20-milano-leggaro.png" tiled
+texture "ta20-milano-leggaro.png" skids
+texture "ta20-milano-leggaro.png" shad
 numvert 631
 -1.970920 0.346478 0.606119 -0.592241 0.332375 0.734015
 -1.985030 0.346478 0.472744 -0.661379 0.694344 -0.283661
@@ -11871,10 +11871,10 @@ refs 5
 kids 0
 OBJECT poly
 name "THING2_s_9"
-texture "TA20-milano-leggaro.png" base
-texture "TA20-milano-leggaro.png" tiled
-texture "TA20-milano-leggaro.png" skids
-texture "TA20-milano-leggaro.png" shad
+texture "ta20-milano-leggaro.png" base
+texture "ta20-milano-leggaro.png" tiled
+texture "ta20-milano-leggaro.png" skids
+texture "ta20-milano-leggaro.png" shad
 numvert 164
 1.986250 0.481519 -0.440427 0.990238 0.138939 0.011130
 1.986120 0.473940 -0.412060 0.991763 0.110975 0.063965
@@ -12359,10 +12359,10 @@ refs 82
 kids 0
 OBJECT poly
 name "THING3_s_0"
-texture "TA20-milano-leggaro.png" base
-texture "TA20-milano-leggaro.png" tiled
-texture "TA20-milano-leggaro.png" skids
-texture "TA20-milano-leggaro.png" shad
+texture "ta20-milano-leggaro.png" base
+texture "ta20-milano-leggaro.png" tiled
+texture "ta20-milano-leggaro.png" skids
+texture "ta20-milano-leggaro.png" shad
 numvert 17
 0.567666 0.795676 0.318943 -0.942609 -0.333897 0.000000
 0.592566 0.722057 0.440579 -0.985546 -0.169390 -0.002315
@@ -12428,10 +12428,10 @@ refs 12
 kids 0
 OBJECT poly
 name "THING4_s_7"
-texture "TA20-milano-leggaro.png" base
-texture "TA20-milano-leggaro.png" tiled
-texture "TA20-milano-leggaro.png" skids
-texture "TA20-milano-leggaro.png" shad
+texture "ta20-milano-leggaro.png" base
+texture "ta20-milano-leggaro.png" tiled
+texture "ta20-milano-leggaro.png" skids
+texture "ta20-milano-leggaro.png" shad
 numvert 214
 0.407179 0.770862 -0.723836 0.659723 -0.058992 -0.749190
 0.429814 0.716859 -0.699801 0.659581 -0.057453 -0.749434

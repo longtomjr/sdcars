@@ -4,10 +4,10 @@ OBJECT world
 kids 12
 OBJECT poly
 name "FEWNDERS_s_1"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 88
 -0.297122 0.132813 0.852087 0.007235 -0.172716 0.984945
 -0.943615 0.011946 0.825031 -0.000985 -0.213422 0.976960
@@ -247,10 +247,10 @@ refs 5
 kids 0
 OBJECT poly
 name "FLARES_s_7"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 248
 1.489250 0.446088 0.872610 0.042693 -0.685254 0.727052
 1.329170 0.433228 0.825523 0.243719 -0.967363 -0.069359
@@ -905,10 +905,10 @@ refs 18
 kids 0
 OBJECT poly
 name "WELLS_s_7"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 109
 -0.994361 0.406274 0.508541 -0.658104 -0.546893 0.517500
 -1.696330 0.322659 0.508541 0.771848 -0.368501 0.518128
@@ -1204,10 +1204,10 @@ refs 8
 kids 0
 OBJECT poly
 name "BODYBOTTOM_s_26"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 420
 -2.274400 0.658264 -0.804089 -0.328964 0.430780 -0.840364
 -2.273170 0.667465 -0.792343 -0.444852 0.854501 -0.268208
@@ -2487,10 +2487,10 @@ refs 22
 kids 0
 OBJECT poly
 name "CHASSINTERI_s_62"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 847
 0.409541 0.176071 0.036359 0.369844 0.850777 0.373355
 0.282055 0.035214 0.050390 -0.437914 0.162878 0.884139
@@ -5066,10 +5066,10 @@ refs 8
 kids 0
 OBJECT poly
 name "YENKOINSERT_s_27"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 244
 -0.464701 1.036030 0.621406 -0.014865 -0.378703 -0.925399
 -0.456489 1.034740 0.621802 0.397405 -0.804300 -0.441781
@@ -5674,10 +5674,10 @@ refs 12
 kids 0
 OBJECT poly
 name "WIGLASS_s_9"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 82
 0.356822 1.026960 0.612764 0.015035 0.377890 0.925728
 0.551485 0.700400 0.742907 0.015035 0.377890 0.925728
@@ -5899,10 +5899,10 @@ refs 5
 kids 0
 OBJECT poly
 name "DRIVER_s_3"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 62
 -0.069827 0.946149 -0.482862 -0.351842 0.397761 -0.847345
 -0.072867 0.867519 -0.494562 -0.348508 -0.018767 -0.937118
@@ -6105,10 +6105,10 @@ refs 11
 kids 0
 OBJECT poly
 name "GUY_s_19"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 370
 0.942208 0.382001 -0.533832 -0.345603 0.930885 -0.118370
 0.697673 0.278049 -0.554322 -0.331499 0.697623 -0.635162
@@ -7207,10 +7207,10 @@ refs 28
 kids 0
 OBJECT poly
 name "ROOF_s_20"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 322
 -0.533511 0.693058 0.778000 0.150633 0.935351 0.320044
 -0.325567 0.693058 0.774622 0.013524 0.271452 0.962357
@@ -8102,10 +8102,10 @@ refs 4
 kids 0
 OBJECT poly
 name "CHROME_s_87"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 1481
 0.611966 0.667422 -0.777792 -1.000000 -0.000131 -0.000601
 0.611989 0.705804 -0.805311 -0.653315 -0.739658 0.161509
@@ -12637,10 +12637,10 @@ refs 13
 kids 0
 OBJECT poly
 name "SPOILER_s_0"
-texture "TA20-deckard-widowmaker.png" base
-texture "TA20-deckard-widowmaker.png" tiled
-texture "TA20-deckard-widowmaker.png" skids
-texture "TA20-deckard-widowmaker.png" shad
+texture "ta20-deckard-widowmaker.png" base
+texture "ta20-deckard-widowmaker.png" tiled
+texture "ta20-deckard-widowmaker.png" skids
+texture "ta20-deckard-widowmaker.png" shad
 numvert 20
 1.961921 0.102076 -0.742633 -0.170867 -0.312601 -0.934390
 2.001047 -0.000301 0.732633 -0.231167 -0.637685 0.734793

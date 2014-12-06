@@ -4,10 +4,10 @@ OBJECT world
 kids 13
 OBJECT poly
 name "BEZ_s_1"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 42
 2.365040 0.396547 -0.825913 0.791144 -0.035644 0.610590
 2.365040 0.473659 -0.808272 0.843505 -0.266332 0.466440
@@ -116,10 +116,10 @@ refs 27
 kids 0
 OBJECT poly
 name "UPPER_s_10"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 380
 0.158347 1.008840 0.622138 0.125847 0.635747 0.761569
 0.672665 0.668834 0.771832 0.162459 0.831992 0.530469
@@ -1327,10 +1327,10 @@ refs 22
 kids 0
 OBJECT poly
 name "LOWER_s_11"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 369
 2.389750 0.224937 0.000000 0.375370 -0.926875 -0.000000
 2.366910 0.239310 0.783262 0.382999 -0.830464 0.404527
@@ -2418,10 +2418,10 @@ refs 57
 kids 0
 OBJECT poly
 name "HOOD_s_9"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 399
 -1.337360 0.737588 -0.855491 0.035076 0.444778 -0.894954
 -1.351420 0.505451 -0.972122 0.012745 0.451697 -0.892081
@@ -3481,10 +3481,10 @@ refs 56
 kids 0
 OBJECT poly
 name "WIGLASS_s_2"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 38
 0.550174 0.022815 -0.630921 -0.942398 0.334493 -0.000000
 0.550174 0.022815 -0.233522 -0.942398 0.334493 -0.000000
@@ -3589,10 +3589,10 @@ refs 4
 kids 0
 OBJECT poly
 name "DRIVER_s_1"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 51
 -0.209719 0.877622 -0.498965 0.648995 0.255250 -0.716696
 -0.195029 0.776292 -0.490545 0.772781 -0.015345 -0.634488
@@ -3773,10 +3773,10 @@ refs 4
 kids 0
 OBJECT poly
 name "SEAT_s_18"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 405
 0.207891 0.487592 -0.430565 0.822017 0.398565 -0.406736
 0.184101 0.494872 -0.430565 -0.507259 0.813562 -0.284263
@@ -5224,10 +5224,10 @@ refs 4
 kids 0
 OBJECT poly
 name "INTERIOR_s_5"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 69
 0.685014 0.671569 -0.730224 -0.773919 0.069599 0.629448
 0.910896 0.049231 -0.712004 -0.273150 0.227828 0.934603
@@ -5413,10 +5413,10 @@ refs 4
 kids 0
 OBJECT poly
 name "DASH_s_5"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 132
 0.383707 0.207538 -0.081584 0.287047 0.900147 -0.327627
 0.253532 0.207538 -0.004808 -0.480307 0.833809 0.272156
@@ -5864,10 +5864,10 @@ refs 16
 kids 0
 OBJECT poly
 name "CHROME_s_15"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 568
 0.732566 0.688235 0.621385 -0.649327 -0.692986 -0.313280
 0.689175 0.673540 0.746882 0.224637 -0.819161 0.527744
@@ -7951,10 +7951,10 @@ refs 4
 kids 0
 OBJECT poly
 name "CHASSIS_s_11"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 326
 2.384470 0.381848 -0.396545 0.187590 0.085927 -0.978482
 2.400500 0.346923 -0.402728 0.190606 0.408550 -0.892612
@@ -8979,10 +8979,10 @@ refs 30
 kids 0
 OBJECT poly
 name "LIGHTS_s_6"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 158
 2.398290 0.442340 -0.428295 0.996280 -0.000079 -0.086177
 2.435340 0.480870 0.000000 1.000000 -0.000068 -0.000000
@@ -9483,10 +9483,10 @@ refs 22
 kids 0
 OBJECT poly
 name "CAGE_s_7"
-texture "TA50-patriot-javelina.png" base
-texture "TA50-patriot-javelina.png" tiled
-texture "TA50-patriot-javelina.png" skids
-texture "TA50-patriot-javelina.png" shad
+texture "ta50-patriot-javelina.png" base
+texture "ta50-patriot-javelina.png" tiled
+texture "ta50-patriot-javelina.png" skids
+texture "ta50-patriot-javelina.png" shad
 numvert 293
 -0.666212 0.200032 0.715153 -0.188986 0.845231 0.499868
 -0.682710 0.950140 -0.571922 -0.866023 0.430375 0.254523

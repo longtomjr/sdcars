@@ -4,10 +4,10 @@ OBJECT world
 kids 5
 OBJECT poly
 name "WAVEFRONTOB_s_0"
-texture "TA20-kanagawa-510.png" base
-texture "TA20-kanagawa-510.png" tiled
-texture "TA20-kanagawa-510.png" skids
-texture "TA20-kanagawa-510.png" shad
+texture "ta20-kanagawa-510.png" base
+texture "ta20-kanagawa-510.png" tiled
+texture "ta20-kanagawa-510.png" skids
+texture "ta20-kanagawa-510.png" shad
 numvert 2835
 -1.935570 0.274930 -0.176213 -0.897352 0.210184 0.388050
 -1.935570 0.274930 0.176213 -0.902540 0.347773 -0.253921
@@ -8984,10 +8984,10 @@ refs 13
 kids 0
 OBJECT poly
 name "WIGLASS_s_6"
-texture "TA20-kanagawa-510.png" base
-texture "TA20-kanagawa-510.png" tiled
-texture "TA20-kanagawa-510.png" skids
-texture "TA20-kanagawa-510.png" shad
+texture "ta20-kanagawa-510.png" base
+texture "ta20-kanagawa-510.png" tiled
+texture "ta20-kanagawa-510.png" skids
+texture "ta20-kanagawa-510.png" shad
 numvert 48
 0.802506 0.050684 -0.637079 -0.958243 0.285955 -0.000000
 0.911282 0.415195 -0.163474 -0.958243 0.285955 -0.000000
@@ -9116,10 +9116,10 @@ refs 5
 kids 0
 OBJECT poly
 name "DRIVER_s_1"
-texture "TA20-kanagawa-510.png" base
-texture "TA20-kanagawa-510.png" tiled
-texture "TA20-kanagawa-510.png" skids
-texture "TA20-kanagawa-510.png" shad
+texture "ta20-kanagawa-510.png" base
+texture "ta20-kanagawa-510.png" tiled
+texture "ta20-kanagawa-510.png" skids
+texture "ta20-kanagawa-510.png" shad
 numvert 51
 0.078970 0.912212 -0.385169 0.949165 0.314778 -0.000020
 0.041080 0.912412 -0.305069 0.649011 0.255274 0.716673
@@ -9303,10 +9303,10 @@ refs 4
 kids 0
 OBJECT poly
 name "GUY_s_10"
-texture "TA20-kanagawa-510.png" base
-texture "TA20-kanagawa-510.png" tiled
-texture "TA20-kanagawa-510.png" skids
-texture "TA20-kanagawa-510.png" shad
+texture "ta20-kanagawa-510.png" base
+texture "ta20-kanagawa-510.png" tiled
+texture "ta20-kanagawa-510.png" skids
+texture "ta20-kanagawa-510.png" shad
 numvert 310
 0.496400 0.730832 -0.493459 -0.761650 0.473511 -0.442354
 0.498050 0.693692 -0.515679 0.075694 0.247559 -0.965912
@@ -10250,10 +10250,10 @@ refs 28
 kids 0
 OBJECT poly
 name "DASH_s_2"
-texture "TA20-kanagawa-510.png" base
-texture "TA20-kanagawa-510.png" tiled
-texture "TA20-kanagawa-510.png" skids
-texture "TA20-kanagawa-510.png" shad
+texture "ta20-kanagawa-510.png" base
+texture "ta20-kanagawa-510.png" tiled
+texture "ta20-kanagawa-510.png" skids
+texture "ta20-kanagawa-510.png" shad
 numvert 39
 0.836910 0.689841 -0.572727 0.241508 0.957101 -0.160100
 0.717945 0.695967 -0.712450 -0.129257 0.975629 -0.177318

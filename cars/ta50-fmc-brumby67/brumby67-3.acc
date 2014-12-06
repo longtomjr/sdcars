@@ -4,10 +4,10 @@ OBJECT world
 kids 15
 OBJECT poly
 name "WAVEFRONTOB_s_12"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 274
 2.321230 0.528427 -0.002005 0.966538 -0.256524 0.000000
 2.260450 0.512290 0.568108 0.962133 -0.255362 0.095348
@@ -791,10 +791,10 @@ refs 11
 kids 0
 OBJECT poly
 name "WIGLASS_s_8"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 83
 0.254692 0.945810 -0.655822 0.013347 0.340343 -0.940207
 0.519394 0.696122 -0.742448 0.013347 0.340343 -0.940207
@@ -1015,10 +1015,10 @@ refs 8
 kids 0
 OBJECT poly
 name "DRIVERHEAD_s_1"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 51
 -0.123623 0.797566 -0.514521 0.772781 -0.015345 -0.634488
 -0.100423 0.898696 -0.442851 0.949165 0.314778 -0.000020
@@ -1203,10 +1203,10 @@ refs 4
 kids 0
 OBJECT poly
 name "BODYMAIN_s_14"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 622
 2.261050 0.172682 -0.203523 0.874664 -0.484207 -0.022508
 2.288800 0.254215 -0.203335 0.997232 -0.072883 0.014734
@@ -3057,10 +3057,10 @@ refs 45
 kids 0
 OBJECT poly
 name "BODYFLARE_s_24"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 416
 2.254850 0.150613 0.000000 0.962884 -0.269914 -0.000000
 2.294460 0.291886 0.183692 0.962881 -0.269928 -0.000034
@@ -4203,10 +4203,10 @@ refs 19
 kids 0
 OBJECT poly
 name "BODYROOF_s_2"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 197
 0.593695 0.685408 -0.758500 0.062936 0.345035 -0.936477
 0.675048 0.669875 -0.754485 0.324631 0.647023 -0.689910
@@ -4810,10 +4810,10 @@ refs 8
 kids 0
 OBJECT poly
 name "HEADLINER_s_4"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 106
 -0.574678 1.035970 -0.634953 -0.009364 -0.424753 0.905261
 -0.551400 0.718255 -0.749632 -0.013342 -0.340344 0.940206
@@ -5152,10 +5152,10 @@ refs 9
 kids 0
 OBJECT poly
 name "INTERIOR_s_15"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 145
 0.388605 0.434787 -0.042413 -0.863736 -0.475765 0.166155
 0.467423 0.297459 -0.036913 -0.462729 -0.053062 0.884911
@@ -5593,10 +5593,10 @@ refs 32
 kids 0
 OBJECT poly
 name "PIPE_s_3"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 44
 0.606740 0.013716 -0.343283 -0.282507 -0.017607 0.959104
 -0.631312 -0.070357 -0.721934 -0.217341 -0.528754 0.820477
@@ -5712,10 +5712,10 @@ refs 15
 kids 0
 OBJECT poly
 name "DASH02_s_0"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 28
 0.530116 0.597246 -0.520118 -0.988530 0.151028 0.000005
 0.525144 0.579877 -0.514257 -0.961383 0.275215 0.000036
@@ -5820,10 +5820,10 @@ refs 9
 kids 0
 OBJECT poly
 name "CAGE_s_8"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 256
 -0.608992 1.029750 -0.552990 0.714095 0.598669 0.362853
 -0.545870 0.202909 0.669632 0.999018 0.003176 -0.044183
@@ -6682,10 +6682,10 @@ refs 22
 kids 0
 OBJECT poly
 name "TUNNEL_s_0"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 6
 -1.191770 0.138584 0.000784 -0.066431 0.997791 0.000003
 0.937941 0.062072 -0.177118 -0.042022 0.631168 -0.774507
@@ -6707,10 +6707,10 @@ refs 7
 kids 0
 OBJECT poly
 name "SEAT_s_34"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 562
 0.286561 0.678339 -0.448979 -0.705834 0.603555 -0.370837
 0.312369 0.670449 -0.448979 -0.273371 0.733849 -0.621880
@@ -8413,10 +8413,10 @@ refs 16
 kids 0
 OBJECT poly
 name "DASH01_s_0"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 39
 0.565127 0.719563 0.638087 0.249980 0.967189 0.045336
 0.485965 0.736024 0.125553 -0.237308 0.935816 -0.260641
@@ -8549,10 +8549,10 @@ refs 7
 kids 0
 OBJECT poly
 name "CHROME_s_32"
-texture "TA50-fmc-brumby67.png" base
-texture "TA50-fmc-brumby67.png" tiled
-texture "TA50-fmc-brumby67.png" skids
-texture "TA50-fmc-brumby67.png" shad
+texture "ta50-fmc-brumby67.png" base
+texture "ta50-fmc-brumby67.png" tiled
+texture "ta50-fmc-brumby67.png" skids
+texture "ta50-fmc-brumby67.png" shad
 numvert 929
 0.275188 0.750057 -0.850617 -0.832622 -0.332020 0.443286
 0.294995 0.749954 -0.796068 -0.924804 -0.367353 0.098941

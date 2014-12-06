@@ -5,7 +5,7 @@ kids 31
 OBJECT poly
 name "interior"
 loc 0.477136 0.566876 -0.001302
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 63
 -0.0619271 -0.119716 -0.238368
@@ -418,7 +418,7 @@ kids 0
 OBJECT poly
 name "interior"
 loc 0.392651 0.600764 -0.00130205
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 66
 0.0308 0.0364425 0.0791387
@@ -876,7 +876,7 @@ kids 0
 OBJECT poly
 name "interior"
 loc 0.0994529 0.436826 0.139676
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 33
 0.263528 0.0994908 -0.393114
@@ -1187,7 +1187,7 @@ kids 0
 OBJECT poly
 name "DRIVER_body"
 loc 0.386039 -0.120609 0.314267
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 57
 -0.56225 0.575854 -0.439503
@@ -1588,7 +1588,7 @@ kids 0
 OBJECT poly
 name "rv_mirror_p2"
 loc 0.565596 0.566976 0.260527
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 86
 -0.152801 0.0550615 0.0845029
@@ -2366,7 +2366,7 @@ kids 0
 OBJECT poly
 name "rv_mirror_p1"
 loc 0.46932 0.566976 0.27722
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 36
 0.0211391 0.023303 -0.062035
@@ -2626,7 +2626,7 @@ kids 0
 OBJECT poly
 name "side_airdam_p1"
 loc -0.27357 0.17932 0.548923
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 102
 -0.80555 0.143093 0.0934786
@@ -3576,7 +3576,7 @@ kids 0
 OBJECT poly
 name "side_airdam_p2"
 loc 0 0 -0.0458794
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 54
 -1.06166 0.084451 0.371354
@@ -3938,7 +3938,7 @@ kids 0
 OBJECT poly
 name "side_airdam_p4"
 loc 0 0 -0.0458794
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 20
 -1.02467 0.0844507 0.751038
@@ -4074,7 +4074,7 @@ kids 0
 OBJECT poly
 name "side_airdam_p5"
 loc 0 0 -0.0458794
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 20
 -1.12157 0.322413 0.348319
@@ -4210,7 +4210,7 @@ kids 0
 OBJECT poly
 name "WI"
 loc 0.142132 0.728506 0.1397
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 32
 0.399802 -0.098078 0.0142612
@@ -4514,7 +4514,7 @@ kids 0
 OBJECT poly
 name "fwing_p2"
 loc -0.194685 -0.0117083 0.666699
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 36
 1.70631 0.0487331 0.175355
@@ -4726,7 +4726,7 @@ kids 0
 OBJECT poly
 name "front_susp"
 loc 1.03795 0.262844 0.475284
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 158
 0.292771 -0.180353 -0.263586
@@ -5990,7 +5990,7 @@ kids 0
 OBJECT poly
 name "rear_susp"
 loc -1.35762 0.192896 0.440568
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 240
 -0.0559016 0.136527 0.345185
@@ -8254,7 +8254,7 @@ kids 0
 OBJECT poly
 name "body_lower"
 loc -4.0507 0.0518419 0.0402543
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 46
 4.58407 -0.018736 0.270759
@@ -8536,7 +8536,7 @@ kids 0
 OBJECT poly
 name "fwing_p1"
 loc 1.75924 0.134474 0.420287
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 60
 -0.105507 0.0974488 -1.25379
@@ -8964,7 +8964,7 @@ kids 0
 OBJECT poly
 name "exhaust"
 loc -0.130274 -0.736212 0.298893
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 84
 -1.83534 0.952104 -0.127651
@@ -9920,7 +9920,7 @@ kids 0
 OBJECT poly
 name "r_chas_p2"
 loc -1.73642 0.202424 -0.00147998
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 40
 -0.00813246 0.148739 0.044236
@@ -10160,7 +10160,7 @@ kids 0
 OBJECT poly
 name "r_chas_p1"
 loc -1.73642 0.202424 -0.00147998
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 40
 -0.170213 0.148739 -0.044236
@@ -10376,7 +10376,7 @@ kids 0
 OBJECT poly
 name "box"
 loc -1.89667 0.341612 0.0840983
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 32
 0.0588049 -0.0385217 -0.00522697
@@ -10560,7 +10560,7 @@ kids 0
 OBJECT poly
 name "box"
 loc -1.89667 0.341612 0.0840983
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 32
 -0.0588049 0.0600381 -0.00522697
@@ -10720,7 +10720,7 @@ kids 0
 OBJECT poly
 name "bottom"
 loc 0.23462 0.0291981 -0.00147992
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 51
 1.7134 0.0254939 8.5379e-007
@@ -11073,7 +11073,7 @@ kids 0
 OBJECT poly
 name "rwing_p1"
 loc -1.76072 0.669191 -0.00147998
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 72
 -0.215162 -0.25836 -0.029503
@@ -11477,7 +11477,7 @@ kids 0
 OBJECT poly
 name "rwing_p2"
 loc -1.76072 0.669191 -0.00147998
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 80
 -0.0485921 -0.267615 -0.482562
@@ -12009,7 +12009,7 @@ kids 0
 OBJECT poly
 name "black"
 loc -0.511796 0.544579 -0.00148004
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 72
 -1.48871 -0.324399 0.147068
@@ -12580,7 +12580,7 @@ refs 3
 kids 0
 OBJECT poly
 name "bodyback"
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 57
 -0.223887 0.952341 -0.0734251
@@ -13173,7 +13173,7 @@ kids 0
 OBJECT poly
 name "front_susp"
 loc 1.03795 0.262844 0.475284
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 19
 0.050912 0.0546944 -1.21782
@@ -13326,7 +13326,7 @@ kids 0
 OBJECT poly
 name "body"
 loc 0.099456 0.518439 0.165829
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 32
 -1.17663 -0.218562 0.155533
@@ -13522,7 +13522,7 @@ kids 0
 OBJECT poly
 name "body"
 loc 0.0985709 0.492684 -0.00151151
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 266
 -0.371912 0.337049 -0.0811589
@@ -16304,7 +16304,7 @@ kids 0
 OBJECT poly
 name "body_p2"
 loc -0.250808 0.807518 0.0897794
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 35
 0.03714 0.18385 -0.119928
@@ -16599,7 +16599,7 @@ kids 0
 OBJECT poly
 name "body_p3"
 loc 0.0985678 0.451248 -0.00149599
-texture "mp_SD5.png"
+texture "mp_sd5.png"
 crease 45.000000
 numvert 99
 -1.56212 -0.409703 1.59889e-005
