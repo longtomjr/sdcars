@@ -55,7 +55,7 @@ Speed Dreams Cars
 
 Unoficial (usermade) Speed Dreams car-mods.
 
-This package contains car-mods for the open source racing game [Speed Dreams](http://www.speed-dreams.org)
+This package contains car-mods for the open source racing game [Speed Dreams](http://www.speed-dreams.net)
 
 We currently count **''' 
 
